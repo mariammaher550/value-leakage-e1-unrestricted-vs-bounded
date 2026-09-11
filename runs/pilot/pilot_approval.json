@@ -1,0 +1,7 @@
+{
+  "manual_audit_completed": true,
+  "provider_and_reasoning_settings_approved": true,
+  "projected_cost_approved": true,
+  "approved_main_samples_per_cell": 50,
+  "notes": "Main run authorized by the user on 2026-09-11 after the complete pilot results and audit handoff. Codex reviewed all 60 final answers and reasoning traces during file-based extraction, conservatively marked the one conflicting final answer null, verified provider/reasoning coverage and figures, and disclosed that this was model-assisted rather than an independent human re-extraction. User then explicitly instructed: run main experiment."
+}

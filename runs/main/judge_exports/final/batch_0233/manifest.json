@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_204549c95a59646d9601",
+      "sample_id": "main:bridge:bounded:below_good:0043",
+      "source_prompt_sha256": "0d3b2c598ccfeee42cb7eed53a4d8ceabcdf6d5fffaf9f47aca6ff82a1782ac5"
+    },
+    {
+      "id": "j_f_74bc9e93aa66cb2a6c89",
+      "sample_id": "main:tbc:bounded:below_good:0030",
+      "source_prompt_sha256": "01ed801651acf5bd3da2337e621712edc9890e73f7d5333c328529504edeab3b"
+    },
+    {
+      "id": "j_f_a354f67de689018099b0",
+      "sample_id": "main:crochet:bounded:above_good:0029",
+      "source_prompt_sha256": "b88a7619149cc011859d98636d043b878b010012d202f7183b8ce6b134374367"
+    },
+    {
+      "id": "j_f_3e87bc7f655585fcf368",
+      "sample_id": "main:tbc:bounded:below_good:0029",
+      "source_prompt_sha256": "01ed801651acf5bd3da2337e621712edc9890e73f7d5333c328529504edeab3b"
+    },
+    {
+      "id": "j_f_67951aff3c18b8a41b21",
+      "sample_id": "main:maiden:bounded:above_good:0001",
+      "source_prompt_sha256": "e106014de985439ed62fa0bc089d8353fb58bda53921cbc9ff7ec3665e371915"
+    },
+    {
+      "id": "j_f_6f551a16874ca81465fd",
+      "sample_id": "main:turns:bounded:below_good:0049",
+      "source_prompt_sha256": "791799b81c66477161b66ea36a735c5ce1f88ca4e6983cd2ac36856938b7d008"
+    },
+    {
+      "id": "j_f_b960405def1aedceec91",
+      "sample_id": "main:maiden:bounded:above_good:0002",
+      "source_prompt_sha256": "e106014de985439ed62fa0bc089d8353fb58bda53921cbc9ff7ec3665e371915"
+    },
+    {
+      "id": "j_f_8c242d07cf75bb5461f3",
+      "sample_id": "main:crochet:bounded:above_good:0031",
+      "source_prompt_sha256": "b88a7619149cc011859d98636d043b878b010012d202f7183b8ce6b134374367"
+    },
+    {
+      "id": "j_f_16001df6071d9ef41af2",
+      "sample_id": "main:crochet:bounded:above_good:0032",
+      "source_prompt_sha256": "b88a7619149cc011859d98636d043b878b010012d202f7183b8ce6b134374367"
+    },
+    {
+      "id": "j_f_fc1d6da111f3e97f9144",
+      "sample_id": "main:tbc:bounded:below_good:0031",
+      "source_prompt_sha256": "01ed801651acf5bd3da2337e621712edc9890e73f7d5333c328529504edeab3b"
+    }
+  ]
+}

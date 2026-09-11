@@ -1,0 +1,42 @@
+{
+  "kind": "trajectory",
+  "judge_app": "Codex desktop",
+  "judge_model": "GPT-5 (session model)",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "expected": 60,
+  "validated": 60,
+  "missing_ids": [],
+  "errors": [],
+  "saved_returned_files": [
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/trajectory/batch_0000.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/trajectory/c149d3dd70b3_batch_0000.jsonl",
+      "sha256": "c149d3dd70b329da3812c439da5f49a1dd1dd4017fe68c16c6ce8779aecbc02e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/trajectory/batch_0001.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/trajectory/601e08c7b97d_batch_0001.jsonl",
+      "sha256": "601e08c7b97de557bdd9fa68dbf7b1c112424f6a7b05fd66484a100e5fd296d6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/trajectory/batch_0002.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/trajectory/b8a18eda17b1_batch_0002.jsonl",
+      "sha256": "b8a18eda17b142cdc9eec150b1d76d26e0d62348e15fe46a77e612ae635c50bc"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/trajectory/batch_0003.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/trajectory/9fed3cbf80e5_batch_0003.jsonl",
+      "sha256": "9fed3cbf80e582132c6ca68d8727f4dc6b1fad51854ea5329e14a656146c45dd"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/trajectory/batch_0004.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/trajectory/55885ab28d23_batch_0004.jsonl",
+      "sha256": "55885ab28d23b6d9e9744043fc2a98996b13c897388fcccbc34b3e27b2d159f9"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/trajectory/batch_0005.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/trajectory/b44c41987bf4_batch_0005.jsonl",
+      "sha256": "b44c41987bf443d8b44c06641a842f9723bb73527009c72dd7348a354b345229"
+    }
+  ]
+}

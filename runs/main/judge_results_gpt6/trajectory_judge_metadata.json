@@ -1,0 +1,6 @@
+{
+  "kind": "trajectory",
+  "judge_app": "Codex desktop",
+  "judge_model": "GPT-6 (session model)",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502"
+}

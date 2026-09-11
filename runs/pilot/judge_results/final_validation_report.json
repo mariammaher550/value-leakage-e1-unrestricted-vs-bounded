@@ -1,0 +1,42 @@
+{
+  "kind": "final",
+  "judge_app": "Codex desktop",
+  "judge_model": "GPT-5 (session model)",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "expected": 60,
+  "validated": 60,
+  "missing_ids": [],
+  "errors": [],
+  "saved_returned_files": [
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/final/batch_0000.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/final/07e2a7f72293_batch_0000.jsonl",
+      "sha256": "07e2a7f722938f1609913435526a2a0edbdeaea07cd01f2c1270e338c243bfe8"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/final/batch_0001.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/final/ee686d56b828_batch_0001.jsonl",
+      "sha256": "ee686d56b82873a90e34965742c747f8826abb3ec96cae0201d2bbc1878c876a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/final/batch_0002.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/final/c0c87fd3cd07_batch_0002.jsonl",
+      "sha256": "c0c87fd3cd07cff3e19568a24d7af8449b6e545a9712d31cda4ff392ecf1840c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/final/batch_0003.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/final/059eb7576dc0_batch_0003.jsonl",
+      "sha256": "059eb7576dc0fc353a55e096ea0d2f58a499ee9d7f96a2d8c8e8d864c45c7224"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/final/batch_0004.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/final/cf7178e76a20_batch_0004.jsonl",
+      "sha256": "cf7178e76a20a33253f4856f5bd017b0cd592a3cd9d9e65f2c53f158634479f7"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/pilot/final/batch_0005.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judge_results/returned_unchanged/final/94513b09dd76_batch_0005.jsonl",
+      "sha256": "94513b09dd76e023c79af45aa9d7b4846d26d5c5213ee26fa0f182682499e556"
+    }
+  ]
+}

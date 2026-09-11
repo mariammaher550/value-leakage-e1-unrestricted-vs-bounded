@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+.matplotlib/
+.cache/
+*.pyc
+.DS_Store

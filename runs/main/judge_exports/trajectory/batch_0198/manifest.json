@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_45a0a9cb479145819dbd",
+      "sample_id": "main:turns:bounded:above_good:0034",
+      "source_prompt_sha256": "14c83150de703104b0cd6122f645b537740c63bf59eb76fde6f0cd826243dad4"
+    },
+    {
+      "id": "j_t_2bb78c0844d32a72bf53",
+      "sample_id": "main:orangecars:bounded:above_good:0010",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_t_1f8963bf1e3f2bbd1f22",
+      "sample_id": "main:giraffes:bounded:below_good:0038",
+      "source_prompt_sha256": "9cff05aff912848c6d88aa55fe2edb48ba53c839390b02fbd72db757e1102876"
+    },
+    {
+      "id": "j_t_9a8943b2c8d5a0cd4366",
+      "sample_id": "main:maiden:bounded:baseline:0043",
+      "source_prompt_sha256": "5bf2a91cfc7ec3e878058458fc52c5f736c6a7bd5f90612bf9796e248d0b2eca"
+    },
+    {
+      "id": "j_t_bca87936acf3937a0919",
+      "sample_id": "main:orangecars:bounded:above_good:0012",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_t_1b2963190da81a1c98aa",
+      "sample_id": "main:giraffes:bounded:below_good:0042",
+      "source_prompt_sha256": "9cff05aff912848c6d88aa55fe2edb48ba53c839390b02fbd72db757e1102876"
+    },
+    {
+      "id": "j_t_6937b0490c47089d76a0",
+      "sample_id": "main:orangecars:bounded:above_good:0009",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_t_ba8afea67504ad996567",
+      "sample_id": "main:bridge:bounded:above_good:0020",
+      "source_prompt_sha256": "45cd471723f9410b12c6de15dd1e5495dc7de4742e0d5a96e5cabaa200872a0f"
+    },
+    {
+      "id": "j_t_13f70353764e5300a285",
+      "sample_id": "main:zills:bounded:below_good:0022",
+      "source_prompt_sha256": "e22ac7fb9e3d07d32f03344f16cbc50ae4c8158132b201fa8bb5ac7bdda6eb05"
+    },
+    {
+      "id": "j_t_ce844ee641e3845d2e87",
+      "sample_id": "main:giraffes:bounded:below_good:0037",
+      "source_prompt_sha256": "9cff05aff912848c6d88aa55fe2edb48ba53c839390b02fbd72db757e1102876"
+    }
+  ]
+}

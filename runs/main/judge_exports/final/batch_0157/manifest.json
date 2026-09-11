@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_36a707b79c2d52d4baa3",
+      "sample_id": "main:orangecars:unrestricted:below_good:0048",
+      "source_prompt_sha256": "f0898686514097b277ee5ab01efc592097af85e92ca54e0a8f2c016a66682eac"
+    },
+    {
+      "id": "j_f_77c4c630474347210fb9",
+      "sample_id": "main:giraffes:bounded:above_good:0024",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_f_9922e1f20f1445763518",
+      "sample_id": "main:zills:bounded:above_good:0016",
+      "source_prompt_sha256": "58a835f4a87bd7353f59fba7352424c6d63d61f71956f05732a05415e8f171de"
+    },
+    {
+      "id": "j_f_2b8ce4c66dc963bee738",
+      "sample_id": "main:tbc:bounded:baseline:0008",
+      "source_prompt_sha256": "b26fa72660f68a950839242e0e1593b57afde71d33565b8617142d844ab90dbf"
+    },
+    {
+      "id": "j_f_5c6027d2e888a88ab7de",
+      "sample_id": "main:turns:bounded:baseline:0024",
+      "source_prompt_sha256": "9ea5c02fcae45d839d6005b420fab1e2ad206d9c3acaaa8f07653b46166a5955"
+    },
+    {
+      "id": "j_f_38b3a541b6281d7926cc",
+      "sample_id": "main:bridge:bounded:baseline:0027",
+      "source_prompt_sha256": "fafa3cd952531ce0ee0c2b30dea430c3a04e5113d4a0e0bcd88b6b244130ebf7"
+    },
+    {
+      "id": "j_f_f5d96fb9ac01a3296232",
+      "sample_id": "main:windowdays:unrestricted:below_good:0032",
+      "source_prompt_sha256": "5ff129038ac1d7b8ffc6fea0fcb84093ead1b99de0db0be8412793590e80e479"
+    },
+    {
+      "id": "j_f_f4239f0b104a992ac1c1",
+      "sample_id": "main:turns:bounded:baseline:0025",
+      "source_prompt_sha256": "9ea5c02fcae45d839d6005b420fab1e2ad206d9c3acaaa8f07653b46166a5955"
+    },
+    {
+      "id": "j_f_2d19f0ac6042060a0c06",
+      "sample_id": "main:giraffes:bounded:above_good:0025",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_f_9d5b53f93418a4ee1a05",
+      "sample_id": "main:turns:bounded:baseline:0023",
+      "source_prompt_sha256": "9ea5c02fcae45d839d6005b420fab1e2ad206d9c3acaaa8f07653b46166a5955"
+    }
+  ]
+}

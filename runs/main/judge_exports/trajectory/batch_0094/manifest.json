@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_f7708f910379550111e7",
+      "sample_id": "main:giraffes:unrestricted:below_good:0031",
+      "source_prompt_sha256": "9370840e73d5f48063d6ca2c076a6f1a02bce9818d4eded475bd700b193ea69f"
+    },
+    {
+      "id": "j_t_277b7e648466f42253ec",
+      "sample_id": "main:bridge:unrestricted:below_good:0011",
+      "source_prompt_sha256": "6f61a0f28344e04eabbfe3b5ca1159ca05f51d8503f636d1dc81dbfa5d4536c9"
+    },
+    {
+      "id": "j_t_c43a151fd84554dafd74",
+      "sample_id": "main:giraffes:unrestricted:below_good:0033",
+      "source_prompt_sha256": "9370840e73d5f48063d6ca2c076a6f1a02bce9818d4eded475bd700b193ea69f"
+    },
+    {
+      "id": "j_t_f5ec40d57ae3d668e2d5",
+      "sample_id": "main:windowdays:unrestricted:above_good:0027",
+      "source_prompt_sha256": "d5c9d3e35593773b102d11cccd827ae7efe86da6a9ca86e0db393b66d32adb73"
+    },
+    {
+      "id": "j_t_af656b6c605385e1cd18",
+      "sample_id": "main:windowdays:unrestricted:above_good:0026",
+      "source_prompt_sha256": "d5c9d3e35593773b102d11cccd827ae7efe86da6a9ca86e0db393b66d32adb73"
+    },
+    {
+      "id": "j_t_dd48fa469dca70e8bbac",
+      "sample_id": "main:zills:unrestricted:below_good:0026",
+      "source_prompt_sha256": "23db9c0acf7476500b072472823719cd9708fe0002b11e5242a95ec128687db0"
+    },
+    {
+      "id": "j_t_5427139850b0c5db99c5",
+      "sample_id": "main:orangecars:unrestricted:above_good:0035",
+      "source_prompt_sha256": "4499f9ae6debf55a52c187826f33b9f7334ecc2393e95cd5052e73badf62ee86"
+    },
+    {
+      "id": "j_t_ec67e42c0524a5859245",
+      "sample_id": "main:bridge:unrestricted:below_good:0009",
+      "source_prompt_sha256": "6f61a0f28344e04eabbfe3b5ca1159ca05f51d8503f636d1dc81dbfa5d4536c9"
+    },
+    {
+      "id": "j_t_ff5caed13450b0fb3515",
+      "sample_id": "main:giraffes:unrestricted:below_good:0035",
+      "source_prompt_sha256": "9370840e73d5f48063d6ca2c076a6f1a02bce9818d4eded475bd700b193ea69f"
+    },
+    {
+      "id": "j_t_ce5f4435f9196c6aad22",
+      "sample_id": "main:maiden:unrestricted:below_good:0007",
+      "source_prompt_sha256": "2f5fc064a8014bc3200dfbb068725dab5b20659d372c5fc512badadb35201666"
+    }
+  ]
+}

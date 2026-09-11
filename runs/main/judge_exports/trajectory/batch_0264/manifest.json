@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_1eff0bb18dabc5e892b2",
+      "sample_id": "main:windowdays:bounded:above_good:0049",
+      "source_prompt_sha256": "66f13a5d779ae486a7012c4dbbc94b853106570ae9a1e2c5b36588bf4bf071f6"
+    },
+    {
+      "id": "j_t_f41a530761fa5ded75b3",
+      "sample_id": "main:windowdays:bounded:below_good:0003",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    },
+    {
+      "id": "j_t_41c40d867903b01bd260",
+      "sample_id": "main:windowdays:bounded:below_good:0001",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    },
+    {
+      "id": "j_t_33bc115eaa322e824275",
+      "sample_id": "main:windowdays:bounded:below_good:0004",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    },
+    {
+      "id": "j_t_b303de200f8c3e05944f",
+      "sample_id": "main:windowdays:bounded:below_good:0000",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    },
+    {
+      "id": "j_t_d06edcbbba6a19329a50",
+      "sample_id": "main:windowdays:bounded:below_good:0002",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    },
+    {
+      "id": "j_t_d4d85da760667d4b7c7d",
+      "sample_id": "main:windowdays:bounded:below_good:0005",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    },
+    {
+      "id": "j_t_516bd23d89bdeccfeac9",
+      "sample_id": "main:windowdays:bounded:below_good:0006",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    },
+    {
+      "id": "j_t_e8733bb5f4a311839028",
+      "sample_id": "main:windowdays:bounded:below_good:0009",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    },
+    {
+      "id": "j_t_9f73ef4823d21b33387d",
+      "sample_id": "main:windowdays:bounded:below_good:0007",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    }
+  ]
+}

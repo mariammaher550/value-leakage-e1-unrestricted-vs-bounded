@@ -1,0 +1,58 @@
+experiment:
+  name: e1_unrestricted_vs_bounded
+  seed: 20260911
+  formats: [unrestricted, bounded]
+  conditions: [baseline, above_good, below_good]
+
+model:
+  id: qwen/qwen3.6-35b-a3b
+  provider: darkbloom
+  expected_provider_quantization: fp4
+  endpoint_snapshot_checked_date: 2026-09-11
+  allow_provider_fallbacks: false
+  temperature: 1.0
+  max_completion_tokens: 16000
+  reasoning:
+    enabled: true
+    exclude: false
+  request_timeout_seconds: 600
+  max_retries: 3
+  retry_base_seconds: 2
+  max_concurrency: 4
+
+studies:
+  pilot:
+    tasks: [giraffes]
+    samples_per_cell: 10
+  main:
+    tasks: [giraffes, zills, bridge, crochet, tbc, maiden, turns, orangecars, windowdays]
+    samples_per_cell: 50
+
+bounds:
+  lower_multiplier: 0.5
+  upper_multiplier: 1.5
+
+bootstrap:
+  resamples: 2000
+  confidence_level: 0.95
+
+budget:
+  total_usd: 50.0
+  metered_api_cap_usd: 40.0
+  # Used for a conservative reservation before each request. Actual OpenRouter
+  # usage cost is recorded when supplied; otherwise billed tokens use these rates.
+  max_input_usd_per_million: 0.05
+  max_output_usd_per_million: 0.70
+  pricing_checked_date: 2026-09-11
+  reserved_input_tokens_per_request: 2000
+
+paths:
+  runs_dir: runs
+
+sources:
+  authors_repository: https://github.com/TruthfulAI-research/value_leakage
+  authors_revision: f7e5480cfe8abeb64b7007ba24fb0164519c3b68
+  authors_prompt_path: shared/prompts/thresholds.py
+  local_tasks_sha256: 56f808620dd08cf17eeab465cc8d424d57a63768afe84a0947d56e17347f0384
+  student_repository: https://github.com/adsingh-64/value-leakage
+  student_revision: 16d129859e1f0e281363fb4f5910bcaeea316b10

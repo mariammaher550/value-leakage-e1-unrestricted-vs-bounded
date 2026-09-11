@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_00581ff61a704de84501",
+      "sample_id": "main:orangecars:unrestricted:above_good:0011",
+      "source_prompt_sha256": "4499f9ae6debf55a52c187826f33b9f7334ecc2393e95cd5052e73badf62ee86"
+    },
+    {
+      "id": "j_t_1ab18585861f380c25fd",
+      "sample_id": "main:orangecars:unrestricted:above_good:0012",
+      "source_prompt_sha256": "4499f9ae6debf55a52c187826f33b9f7334ecc2393e95cd5052e73badf62ee86"
+    },
+    {
+      "id": "j_t_aea185e5d2ce7c17eb66",
+      "sample_id": "main:crochet:unrestricted:above_good:0042",
+      "source_prompt_sha256": "338aa2644afda4bce7ffd41d1348c0c93c1602323428cc90988a049e8519ca1b"
+    },
+    {
+      "id": "j_t_57a31da7b03b2e5f4343",
+      "sample_id": "main:crochet:unrestricted:above_good:0039",
+      "source_prompt_sha256": "338aa2644afda4bce7ffd41d1348c0c93c1602323428cc90988a049e8519ca1b"
+    },
+    {
+      "id": "j_t_289b086182442a4b6867",
+      "sample_id": "main:orangecars:unrestricted:above_good:0013",
+      "source_prompt_sha256": "4499f9ae6debf55a52c187826f33b9f7334ecc2393e95cd5052e73badf62ee86"
+    },
+    {
+      "id": "j_t_02673fa2d0a8e0dba171",
+      "sample_id": "main:giraffes:unrestricted:below_good:0000",
+      "source_prompt_sha256": "9370840e73d5f48063d6ca2c076a6f1a02bce9818d4eded475bd700b193ea69f"
+    },
+    {
+      "id": "j_t_069d3e05296f740ec880",
+      "sample_id": "main:turns:unrestricted:above_good:0017",
+      "source_prompt_sha256": "aa853fea06cabafedf529ea8dd4dee6ca77c8a44e729e06bdcd423e23681b341"
+    },
+    {
+      "id": "j_t_46f92c039561774d4574",
+      "sample_id": "main:turns:unrestricted:above_good:0016",
+      "source_prompt_sha256": "aa853fea06cabafedf529ea8dd4dee6ca77c8a44e729e06bdcd423e23681b341"
+    },
+    {
+      "id": "j_t_abc5a1fd0da36c07fd6f",
+      "sample_id": "main:windowdays:unrestricted:above_good:0006",
+      "source_prompt_sha256": "d5c9d3e35593773b102d11cccd827ae7efe86da6a9ca86e0db393b66d32adb73"
+    },
+    {
+      "id": "j_t_c20683dc912e4473bf03",
+      "sample_id": "main:windowdays:unrestricted:above_good:0007",
+      "source_prompt_sha256": "d5c9d3e35593773b102d11cccd827ae7efe86da6a9ca86e0db393b66d32adb73"
+    }
+  ]
+}

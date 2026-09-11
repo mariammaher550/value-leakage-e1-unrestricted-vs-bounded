@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_d42593fddf0348f6d8f5",
+      "sample_id": "main:turns:bounded:below_good:0013",
+      "source_prompt_sha256": "791799b81c66477161b66ea36a735c5ce1f88ca4e6983cd2ac36856938b7d008"
+    },
+    {
+      "id": "j_t_0034fc3e11675f6d60c6",
+      "sample_id": "main:tbc:bounded:above_good:0049",
+      "source_prompt_sha256": "abd6eadd5be84ecd9158eaba187df583ed09fa8df31eb075028af59a89009fd9"
+    },
+    {
+      "id": "j_t_e290c9913f4468dada65",
+      "sample_id": "main:turns:bounded:below_good:0012",
+      "source_prompt_sha256": "791799b81c66477161b66ea36a735c5ce1f88ca4e6983cd2ac36856938b7d008"
+    },
+    {
+      "id": "j_t_287ea042183e76766ecd",
+      "sample_id": "main:bridge:bounded:below_good:0003",
+      "source_prompt_sha256": "0d3b2c598ccfeee42cb7eed53a4d8ceabcdf6d5fffaf9f47aca6ff82a1782ac5"
+    },
+    {
+      "id": "j_t_36d51fda2d0a1a8e7ceb",
+      "sample_id": "main:orangecars:bounded:above_good:0047",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_t_3ba5fa20656a514497fa",
+      "sample_id": "main:orangecars:bounded:above_good:0046",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_t_3e4d164d9fb0da55ae69",
+      "sample_id": "main:bridge:bounded:below_good:0000",
+      "source_prompt_sha256": "0d3b2c598ccfeee42cb7eed53a4d8ceabcdf6d5fffaf9f47aca6ff82a1782ac5"
+    },
+    {
+      "id": "j_t_041a3ca997fd173d3e41",
+      "sample_id": "main:turns:bounded:below_good:0011",
+      "source_prompt_sha256": "791799b81c66477161b66ea36a735c5ce1f88ca4e6983cd2ac36856938b7d008"
+    },
+    {
+      "id": "j_t_10c690c40ae606877114",
+      "sample_id": "main:orangecars:bounded:above_good:0048",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_t_8463347299bf0581a7de",
+      "sample_id": "main:bridge:bounded:below_good:0001",
+      "source_prompt_sha256": "0d3b2c598ccfeee42cb7eed53a4d8ceabcdf6d5fffaf9f47aca6ff82a1782ac5"
+    }
+  ]
+}

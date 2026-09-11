@@ -1,0 +1,6 @@
+{
+  "kind": "final",
+  "judge_app": "Codex desktop",
+  "judge_model": "GPT-6 (session model)",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4"
+}

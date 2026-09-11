@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_d05a11fc6c766073a20e",
+      "sample_id": "main:giraffes:unrestricted:above_good:0037",
+      "source_prompt_sha256": "3a72430ba663075a242e7fb59c5182d07489e1b57129235ffacc47062c68b45d"
+    },
+    {
+      "id": "j_t_51e8527ca524bfd7dd26",
+      "sample_id": "main:maiden:unrestricted:above_good:0027",
+      "source_prompt_sha256": "494323b17c1fc93f7762c001552bbe0e54d6b975baf390e4ec94ff93cc055604"
+    },
+    {
+      "id": "j_t_1b32e25b64c5cd4c6e58",
+      "sample_id": "main:crochet:unrestricted:above_good:0019",
+      "source_prompt_sha256": "338aa2644afda4bce7ffd41d1348c0c93c1602323428cc90988a049e8519ca1b"
+    },
+    {
+      "id": "j_t_29892fa2d58107d303c1",
+      "sample_id": "main:maiden:unrestricted:above_good:0026",
+      "source_prompt_sha256": "494323b17c1fc93f7762c001552bbe0e54d6b975baf390e4ec94ff93cc055604"
+    },
+    {
+      "id": "j_t_ea9213c38de947c2d785",
+      "sample_id": "main:zills:unrestricted:above_good:0035",
+      "source_prompt_sha256": "c43dcf14e327473299b0cd8cc9b83ce1fae612f2dc84003458a43b92dd867643"
+    },
+    {
+      "id": "j_t_b1f3e9c8532ec4cebc5b",
+      "sample_id": "main:zills:unrestricted:above_good:0027",
+      "source_prompt_sha256": "c43dcf14e327473299b0cd8cc9b83ce1fae612f2dc84003458a43b92dd867643"
+    },
+    {
+      "id": "j_t_786954d207f63f6cbdeb",
+      "sample_id": "main:bridge:unrestricted:above_good:0026",
+      "source_prompt_sha256": "00d480b32d652bd07b2df2058232d8934f51b1858d4d3a41ade2fe8dd4d2e35f"
+    },
+    {
+      "id": "j_t_6b8708d8fc1e1d21573e",
+      "sample_id": "main:bridge:unrestricted:above_good:0025",
+      "source_prompt_sha256": "00d480b32d652bd07b2df2058232d8934f51b1858d4d3a41ade2fe8dd4d2e35f"
+    },
+    {
+      "id": "j_t_20e196762386460e7af8",
+      "sample_id": "main:giraffes:unrestricted:above_good:0032",
+      "source_prompt_sha256": "3a72430ba663075a242e7fb59c5182d07489e1b57129235ffacc47062c68b45d"
+    },
+    {
+      "id": "j_t_b4fb747b9ce9bab225e0",
+      "sample_id": "main:giraffes:unrestricted:above_good:0039",
+      "source_prompt_sha256": "3a72430ba663075a242e7fb59c5182d07489e1b57129235ffacc47062c68b45d"
+    }
+  ]
+}

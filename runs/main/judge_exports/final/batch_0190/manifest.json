@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_8a3f7dd8be969fa9b672",
+      "sample_id": "main:orangecars:bounded:above_good:0000",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_f_2d1fa0a7995542307ebb",
+      "sample_id": "main:tbc:bounded:above_good:0004",
+      "source_prompt_sha256": "abd6eadd5be84ecd9158eaba187df583ed09fa8df31eb075028af59a89009fd9"
+    },
+    {
+      "id": "j_f_6e45cb7d2e8014a94eb6",
+      "sample_id": "main:zills:bounded:below_good:0011",
+      "source_prompt_sha256": "e22ac7fb9e3d07d32f03344f16cbc50ae4c8158132b201fa8bb5ac7bdda6eb05"
+    },
+    {
+      "id": "j_f_e5c5b5335bd757abaa78",
+      "sample_id": "main:tbc:bounded:above_good:0006",
+      "source_prompt_sha256": "abd6eadd5be84ecd9158eaba187df583ed09fa8df31eb075028af59a89009fd9"
+    },
+    {
+      "id": "j_f_284dc95b07c9241bce0d",
+      "sample_id": "main:turns:bounded:above_good:0022",
+      "source_prompt_sha256": "14c83150de703104b0cd6122f645b537740c63bf59eb76fde6f0cd826243dad4"
+    },
+    {
+      "id": "j_f_227daf74980488676c2a",
+      "sample_id": "main:orangecars:bounded:above_good:0003",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_f_7b6cd1737a9d2807e61e",
+      "sample_id": "main:giraffes:bounded:below_good:0026",
+      "source_prompt_sha256": "9cff05aff912848c6d88aa55fe2edb48ba53c839390b02fbd72db757e1102876"
+    },
+    {
+      "id": "j_f_4f187a0dcb664b9466fe",
+      "sample_id": "main:maiden:bounded:baseline:0033",
+      "source_prompt_sha256": "5bf2a91cfc7ec3e878058458fc52c5f736c6a7bd5f90612bf9796e248d0b2eca"
+    },
+    {
+      "id": "j_f_8dac3aabb2dd66724a6d",
+      "sample_id": "main:orangecars:bounded:above_good:0004",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_f_040ccb8398b91ec437cf",
+      "sample_id": "main:maiden:bounded:baseline:0031",
+      "source_prompt_sha256": "5bf2a91cfc7ec3e878058458fc52c5f736c6a7bd5f90612bf9796e248d0b2eca"
+    }
+  ]
+}

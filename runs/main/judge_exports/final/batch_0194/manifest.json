@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_444f78d51a4404a67d4d",
+      "sample_id": "main:bridge:bounded:above_good:0016",
+      "source_prompt_sha256": "45cd471723f9410b12c6de15dd1e5495dc7de4742e0d5a96e5cabaa200872a0f"
+    },
+    {
+      "id": "j_f_834498f8bb849ae5c73d",
+      "sample_id": "main:maiden:bounded:baseline:0037",
+      "source_prompt_sha256": "5bf2a91cfc7ec3e878058458fc52c5f736c6a7bd5f90612bf9796e248d0b2eca"
+    },
+    {
+      "id": "j_f_36f2533a48d56a9de4fe",
+      "sample_id": "main:giraffes:bounded:below_good:0035",
+      "source_prompt_sha256": "9cff05aff912848c6d88aa55fe2edb48ba53c839390b02fbd72db757e1102876"
+    },
+    {
+      "id": "j_f_8ac42d2b8f8d9c4216df",
+      "sample_id": "main:turns:bounded:above_good:0030",
+      "source_prompt_sha256": "14c83150de703104b0cd6122f645b537740c63bf59eb76fde6f0cd826243dad4"
+    },
+    {
+      "id": "j_f_6c0a34a1c2cb95159ad6",
+      "sample_id": "main:orangecars:bounded:above_good:0008",
+      "source_prompt_sha256": "f85f31697b9ed4a05f9da5ec38d77241ca8505de49ce56ace982964839708d49"
+    },
+    {
+      "id": "j_f_c80fc4378ef72ebeb575",
+      "sample_id": "main:giraffes:bounded:below_good:0034",
+      "source_prompt_sha256": "9cff05aff912848c6d88aa55fe2edb48ba53c839390b02fbd72db757e1102876"
+    },
+    {
+      "id": "j_f_2257ce5488552e8d2a96",
+      "sample_id": "main:zills:bounded:below_good:0009",
+      "source_prompt_sha256": "e22ac7fb9e3d07d32f03344f16cbc50ae4c8158132b201fa8bb5ac7bdda6eb05"
+    },
+    {
+      "id": "j_f_a32563171d9c39f87b85",
+      "sample_id": "main:tbc:bounded:above_good:0010",
+      "source_prompt_sha256": "abd6eadd5be84ecd9158eaba187df583ed09fa8df31eb075028af59a89009fd9"
+    },
+    {
+      "id": "j_f_cfef7e783eb6b1cfb931",
+      "sample_id": "main:giraffes:bounded:below_good:0032",
+      "source_prompt_sha256": "9cff05aff912848c6d88aa55fe2edb48ba53c839390b02fbd72db757e1102876"
+    },
+    {
+      "id": "j_f_e08b93080d4425489af2",
+      "sample_id": "main:zills:bounded:below_good:0017",
+      "source_prompt_sha256": "e22ac7fb9e3d07d32f03344f16cbc50ae4c8158132b201fa8bb5ac7bdda6eb05"
+    }
+  ]
+}

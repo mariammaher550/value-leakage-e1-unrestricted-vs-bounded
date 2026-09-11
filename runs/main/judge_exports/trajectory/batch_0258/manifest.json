@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_9360b0e4fb841ef566fb",
+      "sample_id": "main:windowdays:bounded:baseline:0038",
+      "source_prompt_sha256": "93586b4ffa5e4a977ecf17d6bfcd3f6523c2c2bacc84683a381fb997cdfd1dca"
+    },
+    {
+      "id": "j_t_fe4c8a3802183445f4c2",
+      "sample_id": "main:maiden:bounded:below_good:0049",
+      "source_prompt_sha256": "7d0d6a5379edf83870b9e8e6f0ead9ab78948fb868017cbde7d81d7d47d9fe49"
+    },
+    {
+      "id": "j_t_e94bb34be5e0db92153e",
+      "sample_id": "main:windowdays:bounded:baseline:0039",
+      "source_prompt_sha256": "93586b4ffa5e4a977ecf17d6bfcd3f6523c2c2bacc84683a381fb997cdfd1dca"
+    },
+    {
+      "id": "j_t_8f992f0b0a6cab94d2ec",
+      "sample_id": "main:maiden:bounded:below_good:0048",
+      "source_prompt_sha256": "7d0d6a5379edf83870b9e8e6f0ead9ab78948fb868017cbde7d81d7d47d9fe49"
+    },
+    {
+      "id": "j_t_c817d24d4daecf273b02",
+      "sample_id": "main:windowdays:bounded:baseline:0042",
+      "source_prompt_sha256": "93586b4ffa5e4a977ecf17d6bfcd3f6523c2c2bacc84683a381fb997cdfd1dca"
+    },
+    {
+      "id": "j_t_6a855df75a0bf53e14f9",
+      "sample_id": "main:windowdays:bounded:baseline:0040",
+      "source_prompt_sha256": "93586b4ffa5e4a977ecf17d6bfcd3f6523c2c2bacc84683a381fb997cdfd1dca"
+    },
+    {
+      "id": "j_t_f0a29cc2953e2b3dd037",
+      "sample_id": "main:windowdays:bounded:baseline:0044",
+      "source_prompt_sha256": "93586b4ffa5e4a977ecf17d6bfcd3f6523c2c2bacc84683a381fb997cdfd1dca"
+    },
+    {
+      "id": "j_t_9f22b70dda335421aa49",
+      "sample_id": "main:windowdays:bounded:baseline:0046",
+      "source_prompt_sha256": "93586b4ffa5e4a977ecf17d6bfcd3f6523c2c2bacc84683a381fb997cdfd1dca"
+    },
+    {
+      "id": "j_t_fb2b4e49d3ae5febcd26",
+      "sample_id": "main:windowdays:bounded:baseline:0047",
+      "source_prompt_sha256": "93586b4ffa5e4a977ecf17d6bfcd3f6523c2c2bacc84683a381fb997cdfd1dca"
+    },
+    {
+      "id": "j_t_d3aed733e034066f1358",
+      "sample_id": "main:windowdays:bounded:baseline:0049",
+      "source_prompt_sha256": "93586b4ffa5e4a977ecf17d6bfcd3f6523c2c2bacc84683a381fb997cdfd1dca"
+    }
+  ]
+}

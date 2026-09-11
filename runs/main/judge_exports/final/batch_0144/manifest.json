@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_556f4a844ca739107508",
+      "sample_id": "main:tbc:unrestricted:below_good:0049",
+      "source_prompt_sha256": "1df08d368de9943477ddc1834ce3076758d604990eeb77b8c8bd0405589037c7"
+    },
+    {
+      "id": "j_f_de365145d92b61952d37",
+      "sample_id": "main:giraffes:bounded:above_good:0004",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_f_7539ef71a320c105f422",
+      "sample_id": "main:giraffes:bounded:above_good:0006",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_f_a0a565ea1411b7668359",
+      "sample_id": "main:turns:bounded:baseline:0004",
+      "source_prompt_sha256": "9ea5c02fcae45d839d6005b420fab1e2ad206d9c3acaaa8f07653b46166a5955"
+    },
+    {
+      "id": "j_f_865d566af34e513b8eeb",
+      "sample_id": "main:maiden:unrestricted:below_good:0046",
+      "source_prompt_sha256": "2f5fc064a8014bc3200dfbb068725dab5b20659d372c5fc512badadb35201666"
+    },
+    {
+      "id": "j_f_c3a9eb57083bf27e6cfb",
+      "sample_id": "main:maiden:unrestricted:below_good:0044",
+      "source_prompt_sha256": "2f5fc064a8014bc3200dfbb068725dab5b20659d372c5fc512badadb35201666"
+    },
+    {
+      "id": "j_f_885a8db7791130a04200",
+      "sample_id": "main:bridge:bounded:baseline:0011",
+      "source_prompt_sha256": "fafa3cd952531ce0ee0c2b30dea430c3a04e5113d4a0e0bcd88b6b244130ebf7"
+    },
+    {
+      "id": "j_f_8156479fc58028b1010f",
+      "sample_id": "main:bridge:bounded:baseline:0012",
+      "source_prompt_sha256": "fafa3cd952531ce0ee0c2b30dea430c3a04e5113d4a0e0bcd88b6b244130ebf7"
+    },
+    {
+      "id": "j_f_b61aeebec17b264d9a49",
+      "sample_id": "main:giraffes:bounded:above_good:0002",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_f_91fcc4766df2c5bf81d7",
+      "sample_id": "main:crochet:bounded:baseline:0026",
+      "source_prompt_sha256": "9322606c05af949dc3140810b0cf88e1133a774418e2cf69ec13037766dca2f7"
+    }
+  ]
+}

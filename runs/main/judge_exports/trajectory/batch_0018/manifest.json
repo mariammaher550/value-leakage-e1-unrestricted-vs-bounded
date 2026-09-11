@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_c52650b8731c13af94aa",
+      "sample_id": "main:bridge:unrestricted:baseline:0047",
+      "source_prompt_sha256": "5efe019d7de725a0f89f5be1ed805e496ec68e3961c643ee2baeccfff19e3827"
+    },
+    {
+      "id": "j_t_7c089b332c288afaf8f0",
+      "sample_id": "main:crochet:unrestricted:baseline:0022",
+      "source_prompt_sha256": "617f23b6c9a61a78a9aa2ea4a1d27006374836430748fc8e5fe55d1c438cee80"
+    },
+    {
+      "id": "j_t_637f708674d135546c21",
+      "sample_id": "main:bridge:unrestricted:baseline:0046",
+      "source_prompt_sha256": "5efe019d7de725a0f89f5be1ed805e496ec68e3961c643ee2baeccfff19e3827"
+    },
+    {
+      "id": "j_t_be029054c79e9563fa73",
+      "sample_id": "main:tbc:unrestricted:baseline:0006",
+      "source_prompt_sha256": "02ec264f68a22cad0da205427c8f4fcd1fdccc64b4383533d1f1214c41b9aa81"
+    },
+    {
+      "id": "j_t_0dfd9e6fa8b527dfe557",
+      "sample_id": "main:crochet:unrestricted:baseline:0025",
+      "source_prompt_sha256": "617f23b6c9a61a78a9aa2ea4a1d27006374836430748fc8e5fe55d1c438cee80"
+    },
+    {
+      "id": "j_t_110db1a715966d11f45e",
+      "sample_id": "main:maiden:unrestricted:baseline:0004",
+      "source_prompt_sha256": "2d2960ce4ddcec41684223e0891f06913ea7c376dfa4477fb35871b73aa6ce18"
+    },
+    {
+      "id": "j_t_9f0d5fdd9129823cbfe0",
+      "sample_id": "main:crochet:unrestricted:baseline:0026",
+      "source_prompt_sha256": "617f23b6c9a61a78a9aa2ea4a1d27006374836430748fc8e5fe55d1c438cee80"
+    },
+    {
+      "id": "j_t_1ef297f73de21d80bfec",
+      "sample_id": "main:tbc:unrestricted:baseline:0007",
+      "source_prompt_sha256": "02ec264f68a22cad0da205427c8f4fcd1fdccc64b4383533d1f1214c41b9aa81"
+    },
+    {
+      "id": "j_t_50ba18770a82cad5b91d",
+      "sample_id": "main:bridge:unrestricted:baseline:0048",
+      "source_prompt_sha256": "5efe019d7de725a0f89f5be1ed805e496ec68e3961c643ee2baeccfff19e3827"
+    },
+    {
+      "id": "j_t_85a078f635f700f3cad0",
+      "sample_id": "main:tbc:unrestricted:baseline:0012",
+      "source_prompt_sha256": "02ec264f68a22cad0da205427c8f4fcd1fdccc64b4383533d1f1214c41b9aa81"
+    }
+  ]
+}

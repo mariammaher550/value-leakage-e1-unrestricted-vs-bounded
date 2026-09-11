@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_cbde4da487197b3b6888",
+      "sample_id": "main:turns:unrestricted:below_good:0021",
+      "source_prompt_sha256": "a0cc8db921c715bce8d9b8797d1d8ecb6a74d20300bf44b6d393152a633444a5"
+    },
+    {
+      "id": "j_t_a42f090701d4d4e583b2",
+      "sample_id": "main:bridge:unrestricted:below_good:0032",
+      "source_prompt_sha256": "6f61a0f28344e04eabbfe3b5ca1159ca05f51d8503f636d1dc81dbfa5d4536c9"
+    },
+    {
+      "id": "j_t_4eecf2b48db2fe9be3ed",
+      "sample_id": "main:turns:unrestricted:below_good:0024",
+      "source_prompt_sha256": "a0cc8db921c715bce8d9b8797d1d8ecb6a74d20300bf44b6d393152a633444a5"
+    },
+    {
+      "id": "j_t_d002134e9071170e63a6",
+      "sample_id": "main:bridge:unrestricted:below_good:0033",
+      "source_prompt_sha256": "6f61a0f28344e04eabbfe3b5ca1159ca05f51d8503f636d1dc81dbfa5d4536c9"
+    },
+    {
+      "id": "j_t_724bd87b26f3876776f3",
+      "sample_id": "main:zills:bounded:baseline:0011",
+      "source_prompt_sha256": "df0c3dadf897f2191d336653428626ac2b7649930b8b33b20d4301da581bdc74"
+    },
+    {
+      "id": "j_t_315b5c0e95daa8f00413",
+      "sample_id": "main:turns:unrestricted:below_good:0023",
+      "source_prompt_sha256": "a0cc8db921c715bce8d9b8797d1d8ecb6a74d20300bf44b6d393152a633444a5"
+    },
+    {
+      "id": "j_t_ffd61798e0d471278488",
+      "sample_id": "main:crochet:unrestricted:below_good:0045",
+      "source_prompt_sha256": "1348eda8496022896a51de59e29f3c6d1ce1e639a0aab484f79f4225d818dbd2"
+    },
+    {
+      "id": "j_t_b2e30f91cd96df0d7bf2",
+      "sample_id": "main:zills:bounded:baseline:0012",
+      "source_prompt_sha256": "df0c3dadf897f2191d336653428626ac2b7649930b8b33b20d4301da581bdc74"
+    },
+    {
+      "id": "j_t_32c9d1f57d3923642357",
+      "sample_id": "main:giraffes:bounded:baseline:0025",
+      "source_prompt_sha256": "ada76da49bb4441ed8ec4bd242508dc943f0adec2c6276282cd198850e295d5b"
+    },
+    {
+      "id": "j_t_2db91eea12678425e351",
+      "sample_id": "main:bridge:unrestricted:below_good:0036",
+      "source_prompt_sha256": "6f61a0f28344e04eabbfe3b5ca1159ca05f51d8503f636d1dc81dbfa5d4536c9"
+    }
+  ]
+}

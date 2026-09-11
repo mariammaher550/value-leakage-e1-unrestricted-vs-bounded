@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_9ccd91ee606c211fd9bb",
+      "sample_id": "main:giraffes:bounded:above_good:0016",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_t_54e07f50521a7db0dafd",
+      "sample_id": "main:giraffes:bounded:above_good:0018",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_t_5ed6335404baaf9fa442",
+      "sample_id": "main:zills:bounded:above_good:0004",
+      "source_prompt_sha256": "58a835f4a87bd7353f59fba7352424c6d63d61f71956f05732a05415e8f171de"
+    },
+    {
+      "id": "j_t_b40356ba814b4f9cfaf4",
+      "sample_id": "main:windowdays:unrestricted:below_good:0027",
+      "source_prompt_sha256": "5ff129038ac1d7b8ffc6fea0fcb84093ead1b99de0db0be8412793590e80e479"
+    },
+    {
+      "id": "j_t_6aa5d8e909a3ec9e08e8",
+      "sample_id": "main:bridge:bounded:baseline:0022",
+      "source_prompt_sha256": "fafa3cd952531ce0ee0c2b30dea430c3a04e5113d4a0e0bcd88b6b244130ebf7"
+    },
+    {
+      "id": "j_t_9b3bb17893645782c707",
+      "sample_id": "main:tbc:bounded:baseline:0003",
+      "source_prompt_sha256": "b26fa72660f68a950839242e0e1593b57afde71d33565b8617142d844ab90dbf"
+    },
+    {
+      "id": "j_t_916550637a72cc6cef47",
+      "sample_id": "main:turns:bounded:baseline:0018",
+      "source_prompt_sha256": "9ea5c02fcae45d839d6005b420fab1e2ad206d9c3acaaa8f07653b46166a5955"
+    },
+    {
+      "id": "j_t_b6df1da4ec84f3a5c11b",
+      "sample_id": "main:zills:bounded:above_good:0005",
+      "source_prompt_sha256": "58a835f4a87bd7353f59fba7352424c6d63d61f71956f05732a05415e8f171de"
+    },
+    {
+      "id": "j_t_878114df9336f8e5fa62",
+      "sample_id": "main:crochet:bounded:baseline:0036",
+      "source_prompt_sha256": "9322606c05af949dc3140810b0cf88e1133a774418e2cf69ec13037766dca2f7"
+    },
+    {
+      "id": "j_t_0463f8ac4d29cea61046",
+      "sample_id": "main:tbc:bounded:baseline:0000",
+      "source_prompt_sha256": "b26fa72660f68a950839242e0e1593b57afde71d33565b8617142d844ab90dbf"
+    }
+  ]
+}

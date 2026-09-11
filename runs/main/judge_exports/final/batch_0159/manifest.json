@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_1c970dd3b48c7e6f8059",
+      "sample_id": "main:tbc:bounded:baseline:0010",
+      "source_prompt_sha256": "b26fa72660f68a950839242e0e1593b57afde71d33565b8617142d844ab90dbf"
+    },
+    {
+      "id": "j_f_6b8aaea5fddc47ae7294",
+      "sample_id": "main:maiden:bounded:baseline:0006",
+      "source_prompt_sha256": "5bf2a91cfc7ec3e878058458fc52c5f736c6a7bd5f90612bf9796e248d0b2eca"
+    },
+    {
+      "id": "j_f_b60e48791aa1fc9f66da",
+      "sample_id": "main:tbc:bounded:baseline:0009",
+      "source_prompt_sha256": "b26fa72660f68a950839242e0e1593b57afde71d33565b8617142d844ab90dbf"
+    },
+    {
+      "id": "j_f_df06178c1c062ba6ecde",
+      "sample_id": "main:giraffes:bounded:above_good:0029",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_f_0a195eb2b90b82caf8b8",
+      "sample_id": "main:turns:bounded:baseline:0026",
+      "source_prompt_sha256": "9ea5c02fcae45d839d6005b420fab1e2ad206d9c3acaaa8f07653b46166a5955"
+    },
+    {
+      "id": "j_f_7b3799567ffc54e978df",
+      "sample_id": "main:turns:bounded:baseline:0027",
+      "source_prompt_sha256": "9ea5c02fcae45d839d6005b420fab1e2ad206d9c3acaaa8f07653b46166a5955"
+    },
+    {
+      "id": "j_f_d10b6604ebbca36bb8f8",
+      "sample_id": "main:crochet:bounded:baseline:0046",
+      "source_prompt_sha256": "9322606c05af949dc3140810b0cf88e1133a774418e2cf69ec13037766dca2f7"
+    },
+    {
+      "id": "j_f_5be6f7bf259bafd67283",
+      "sample_id": "main:giraffes:bounded:above_good:0027",
+      "source_prompt_sha256": "d143b8dee2cecb9a668a88cec8118657fad9c34f8397270714f477aa4f3baaf5"
+    },
+    {
+      "id": "j_f_e70001abb0e24a733be2",
+      "sample_id": "main:orangecars:bounded:baseline:0002",
+      "source_prompt_sha256": "70b1bfedae6f0526bda739a6fede525862d63b969460e1e4875add16fe13d89c"
+    },
+    {
+      "id": "j_f_1c8b32570f8cfc64447d",
+      "sample_id": "main:bridge:bounded:baseline:0031",
+      "source_prompt_sha256": "fafa3cd952531ce0ee0c2b30dea430c3a04e5113d4a0e0bcd88b6b244130ebf7"
+    }
+  ]
+}

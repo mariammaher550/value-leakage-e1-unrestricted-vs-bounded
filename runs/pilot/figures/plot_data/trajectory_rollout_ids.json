@@ -1,0 +1,74 @@
+{
+  "unrestricted__baseline__giraffes": [
+    "pilot:giraffes:unrestricted:baseline:0002",
+    "pilot:giraffes:unrestricted:baseline:0003",
+    "pilot:giraffes:unrestricted:baseline:0004",
+    "pilot:giraffes:unrestricted:baseline:0000",
+    "pilot:giraffes:unrestricted:baseline:0001",
+    "pilot:giraffes:unrestricted:baseline:0005",
+    "pilot:giraffes:unrestricted:baseline:0006",
+    "pilot:giraffes:unrestricted:baseline:0009",
+    "pilot:giraffes:unrestricted:baseline:0007",
+    "pilot:giraffes:unrestricted:baseline:0008"
+  ],
+  "unrestricted__above_good__giraffes": [
+    "pilot:giraffes:unrestricted:above_good:0002",
+    "pilot:giraffes:unrestricted:above_good:0003",
+    "pilot:giraffes:unrestricted:above_good:0001",
+    "pilot:giraffes:unrestricted:above_good:0000",
+    "pilot:giraffes:unrestricted:above_good:0004",
+    "pilot:giraffes:unrestricted:above_good:0005",
+    "pilot:giraffes:unrestricted:above_good:0007",
+    "pilot:giraffes:unrestricted:above_good:0006",
+    "pilot:giraffes:unrestricted:above_good:0008",
+    "pilot:giraffes:unrestricted:above_good:0009"
+  ],
+  "unrestricted__below_good__giraffes": [
+    "pilot:giraffes:unrestricted:below_good:0000",
+    "pilot:giraffes:unrestricted:below_good:0002",
+    "pilot:giraffes:unrestricted:below_good:0001",
+    "pilot:giraffes:unrestricted:below_good:0003",
+    "pilot:giraffes:unrestricted:below_good:0004",
+    "pilot:giraffes:unrestricted:below_good:0005",
+    "pilot:giraffes:unrestricted:below_good:0006",
+    "pilot:giraffes:unrestricted:below_good:0007",
+    "pilot:giraffes:unrestricted:below_good:0009",
+    "pilot:giraffes:unrestricted:below_good:0008"
+  ],
+  "bounded__baseline__giraffes": [
+    "pilot:giraffes:bounded:baseline:0000",
+    "pilot:giraffes:bounded:baseline:0002",
+    "pilot:giraffes:bounded:baseline:0003",
+    "pilot:giraffes:bounded:baseline:0004",
+    "pilot:giraffes:bounded:baseline:0005",
+    "pilot:giraffes:bounded:baseline:0001",
+    "pilot:giraffes:bounded:baseline:0007",
+    "pilot:giraffes:bounded:baseline:0006",
+    "pilot:giraffes:bounded:baseline:0009",
+    "pilot:giraffes:bounded:baseline:0008"
+  ],
+  "bounded__above_good__giraffes": [
+    "pilot:giraffes:bounded:above_good:0003",
+    "pilot:giraffes:bounded:above_good:0001",
+    "pilot:giraffes:bounded:above_good:0002",
+    "pilot:giraffes:bounded:above_good:0000",
+    "pilot:giraffes:bounded:above_good:0004",
+    "pilot:giraffes:bounded:above_good:0007",
+    "pilot:giraffes:bounded:above_good:0009",
+    "pilot:giraffes:bounded:above_good:0006",
+    "pilot:giraffes:bounded:above_good:0008",
+    "pilot:giraffes:bounded:above_good:0005"
+  ],
+  "bounded__below_good__giraffes": [
+    "pilot:giraffes:bounded:below_good:0001",
+    "pilot:giraffes:bounded:below_good:0000",
+    "pilot:giraffes:bounded:below_good:0003",
+    "pilot:giraffes:bounded:below_good:0006",
+    "pilot:giraffes:bounded:below_good:0004",
+    "pilot:giraffes:bounded:below_good:0005",
+    "pilot:giraffes:bounded:below_good:0002",
+    "pilot:giraffes:bounded:below_good:0007",
+    "pilot:giraffes:bounded:below_good:0008",
+    "pilot:giraffes:bounded:below_good:0009"
+  ]
+}

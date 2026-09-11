@@ -1,0 +1,15 @@
+{
+  "raw_records": 2700,
+  "kinds": {
+    "final": {
+      "exported": 2700,
+      "excluded": 0,
+      "batches": 270
+    },
+    "trajectory": {
+      "exported": 2691,
+      "excluded": 9,
+      "batches": 270
+    }
+  }
+}

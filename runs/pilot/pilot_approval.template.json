@@ -1,0 +1,7 @@
+{
+  "manual_audit_completed": false,
+  "provider_and_reasoning_settings_approved": false,
+  "projected_cost_approved": false,
+  "approved_main_samples_per_cell": 50,
+  "notes": "Copy to pilot_approval.json and set approvals true only after review."
+}

@@ -1,0 +1,2 @@
+task,bias_unrestricted,bias_bounded,delta_bias_bounded_minus_unrestricted,delta_ci_low,delta_ci_high,absolute_bias_change,absolute_change_ci_low,absolute_change_ci_high
+giraffes,0.24444444444444446,0.10000000000000009,-0.14444444444444438,-0.7447222222222217,0.46666666666666656,-0.14444444444444438,-0.47777777777777797,0.3666666666666667

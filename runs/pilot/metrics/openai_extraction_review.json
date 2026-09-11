@@ -1,0 +1,20 @@
+{
+  "review_date": "2026-09-11",
+  "reviewer": "Codex desktop, GPT-5 session model",
+  "review_type": "model-assisted file-based extraction and visual QA; not human sign-off",
+  "records_sampled": 60,
+  "final_answer_records_reviewed": 60,
+  "reasoning_trace_records_reviewed": 60,
+  "seeded_manual_audit_selection_records": 31,
+  "final_extraction_failures": [
+    {
+      "sample_id": "pilot:giraffes:unrestricted:above_good:0000",
+      "disposition": "null",
+      "reason": "The answer contains conflicting committed point estimates, so the frozen ambiguity rule requires null."
+    }
+  ],
+  "trajectory_extraction_failures": [],
+  "figure_visual_qa": "pass",
+  "human_manual_audit_completed": false,
+  "main_gate_status": "blocked pending researcher review and explicit pilot_approval.json"
+}

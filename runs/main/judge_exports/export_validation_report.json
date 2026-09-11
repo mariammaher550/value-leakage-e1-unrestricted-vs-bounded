@@ -1,0 +1,34 @@
+{
+  "raw_records": 2700,
+  "raw_sha256": "291ac37afcf654082889cb12892cf58af1a9b899445255901ee28da2cd2bd42e",
+  "cells": 54,
+  "kinds": {
+    "final": {
+      "batches": 270,
+      "exported": 2700,
+      "excluded": 0,
+      "existing_validated_judgments": 450,
+      "awaiting_judgment": 2250
+    },
+    "trajectory": {
+      "batches": 270,
+      "exported": 2691,
+      "excluded": 9,
+      "existing_validated_judgments": 0,
+      "awaiting_judgment": 2691
+    }
+  },
+  "checks": [
+    "Exact source text and task context preserved",
+    "Stable unique IDs and manifest mappings",
+    "At most 10 records per batch",
+    "Fixed instructions and matching hashes",
+    "Templates match inputs",
+    "No added experiment labels in input fields",
+    "Truncated trajectories excluded",
+    "Existing judgment IDs and schemas verified"
+  ],
+  "scope": "Export integrity and existing result schemas; pending judgments have not been performed. Source text is preserved verbatim and can itself mention experimental conditions.",
+  "ok": true,
+  "errors": []
+}

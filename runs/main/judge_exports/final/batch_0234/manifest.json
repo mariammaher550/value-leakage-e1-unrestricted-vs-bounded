@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_df1d422ff619902d74bc",
+      "sample_id": "main:maiden:bounded:above_good:0000",
+      "source_prompt_sha256": "e106014de985439ed62fa0bc089d8353fb58bda53921cbc9ff7ec3665e371915"
+    },
+    {
+      "id": "j_f_23789e700b4dc8d8c5ce",
+      "sample_id": "main:orangecars:bounded:below_good:0037",
+      "source_prompt_sha256": "0b9fe12860bc59e9a08259c6b1ac5b699e502458dfa2a30b016d4f5ebe4d9133"
+    },
+    {
+      "id": "j_f_cdb4d863cd0d8b473b71",
+      "sample_id": "main:tbc:bounded:below_good:0033",
+      "source_prompt_sha256": "01ed801651acf5bd3da2337e621712edc9890e73f7d5333c328529504edeab3b"
+    },
+    {
+      "id": "j_f_4859a12828b765154dc8",
+      "sample_id": "main:tbc:bounded:below_good:0032",
+      "source_prompt_sha256": "01ed801651acf5bd3da2337e621712edc9890e73f7d5333c328529504edeab3b"
+    },
+    {
+      "id": "j_f_238b94bf86e4b1712b51",
+      "sample_id": "main:bridge:bounded:below_good:0044",
+      "source_prompt_sha256": "0d3b2c598ccfeee42cb7eed53a4d8ceabcdf6d5fffaf9f47aca6ff82a1782ac5"
+    },
+    {
+      "id": "j_f_a106f184b6919b414180",
+      "sample_id": "main:bridge:bounded:below_good:0042",
+      "source_prompt_sha256": "0d3b2c598ccfeee42cb7eed53a4d8ceabcdf6d5fffaf9f47aca6ff82a1782ac5"
+    },
+    {
+      "id": "j_f_6c1cbd0c8c6fe4691a1e",
+      "sample_id": "main:turns:bounded:below_good:0048",
+      "source_prompt_sha256": "791799b81c66477161b66ea36a735c5ce1f88ca4e6983cd2ac36856938b7d008"
+    },
+    {
+      "id": "j_f_3d0de5bce0769d8abfc7",
+      "sample_id": "main:orangecars:bounded:below_good:0039",
+      "source_prompt_sha256": "0b9fe12860bc59e9a08259c6b1ac5b699e502458dfa2a30b016d4f5ebe4d9133"
+    },
+    {
+      "id": "j_f_e1c6749ea0009e51cd0d",
+      "sample_id": "main:crochet:bounded:above_good:0030",
+      "source_prompt_sha256": "b88a7619149cc011859d98636d043b878b010012d202f7183b8ce6b134374367"
+    },
+    {
+      "id": "j_f_a86d3bb4c6159cb59967",
+      "sample_id": "main:orangecars:bounded:below_good:0032",
+      "source_prompt_sha256": "0b9fe12860bc59e9a08259c6b1ac5b699e502458dfa2a30b016d4f5ebe4d9133"
+    }
+  ]
+}

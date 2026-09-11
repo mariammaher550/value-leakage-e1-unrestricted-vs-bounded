@@ -1,0 +1,11 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_911b5c38c6b7d81c2613",
+      "sample_id": "main:windowdays:bounded:below_good:0049",
+      "source_prompt_sha256": "5d8100132d0fadcc8a4986ca5cf5876ac1d4c683e73fb90e6d4ee91b016a4dda"
+    }
+  ]
+}

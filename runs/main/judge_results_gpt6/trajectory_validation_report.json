@@ -1,0 +1,1362 @@
+{
+  "kind": "trajectory",
+  "judge_app": "Codex desktop",
+  "judge_model": "GPT-6 (session model)",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "expected": 2691,
+  "validated": 2691,
+  "missing_ids": [],
+  "errors": [],
+  "saved_returned_files": [
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0000.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/234edb5f4724_batch_0000.jsonl",
+      "sha256": "234edb5f4724b85fd2dbaedb3664e1dd4bf56fa9ed7cc0cc51e01a7481abd2e6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0001.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/77c970944fad_batch_0001.jsonl",
+      "sha256": "77c970944fadb59a4eac2e760c14f3fe7f046feface0fb12ffc52e8e7d940ce6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0002.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d57ff6abf30a_batch_0002.jsonl",
+      "sha256": "d57ff6abf30ab35bb5405046a2c3edeb9cd44f12efdeea85bcb43d043b793ffc"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0003.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5cf1fc04ada2_batch_0003.jsonl",
+      "sha256": "5cf1fc04ada235dd92c8de3cc620d000ed21511d8682fec925d10288fbb6e898"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0004.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/a1a90cbc0061_batch_0004.jsonl",
+      "sha256": "a1a90cbc0061d9e01d9cf449377e5e02643a361108fda593dd8284f91b5fe401"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0005.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/3da76f43defa_batch_0005.jsonl",
+      "sha256": "3da76f43defa1843c9d5d402563f227ce858751dfdaea840e197aaf81a212cc0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0006.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c2a302ed4156_batch_0006.jsonl",
+      "sha256": "c2a302ed4156917d87e48548bf3d1916167ffa0baca7043a5f92310baa2c35ed"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0007.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/85d3040f3492_batch_0007.jsonl",
+      "sha256": "85d3040f3492c5b721074aadc677907bbaa75ff26500daeafb917274b5eacd13"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0008.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/32f5529bcffa_batch_0008.jsonl",
+      "sha256": "32f5529bcffacc9fb557e36c8935500c832428323525e4c20fada288c8930e68"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0009.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/773b5fb5723f_batch_0009.jsonl",
+      "sha256": "773b5fb5723f54f7ab7eed69d58858f13cbae03f9ed54b5275507b73b33d8273"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0010.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/cd7fa9d8a356_batch_0010.jsonl",
+      "sha256": "cd7fa9d8a35692e60e9ef8c0525de0a7a1f488214528f2fd9811e3c1487352e0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0011.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/063d2f9516fa_batch_0011.jsonl",
+      "sha256": "063d2f9516fa18a120ad4cc68c12e67912e38a4e686f80030508dc66772ad796"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0012.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4b9ee96c50a7_batch_0012.jsonl",
+      "sha256": "4b9ee96c50a72c31d0ad136b6199620d49797e86192c969c3fc87e9c04ca8ceb"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0013.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/34a0fe1fc551_batch_0013.jsonl",
+      "sha256": "34a0fe1fc5519bc2cf1ba8c85cc1024d544f53f0e0312166e49a962ba27843c2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0014.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/43d96b224c33_batch_0014.jsonl",
+      "sha256": "43d96b224c33120a43330c8b9bde5444e605614bf7372452437f0d9e5baddc93"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0015.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b013088cedb5_batch_0015.jsonl",
+      "sha256": "b013088cedb5f1ad44f4ff5292cd122349d9b81a0431ff323c0a5b946ef984dd"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0016.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5d583b42ee28_batch_0016.jsonl",
+      "sha256": "5d583b42ee28498cc5a73e5599ecdb9bbbcf706afb419b44db8d57e8e26dbb8f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0017.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/37775ccce01b_batch_0017.jsonl",
+      "sha256": "37775ccce01b5b6d62237209b0253d69693f7be567c5997bfb42cef158e45c2a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0018.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/87c2b2a6cec9_batch_0018.jsonl",
+      "sha256": "87c2b2a6cec926c42681e0454aef7c5a705ecb39f8f63c7d370081cb8add3e2a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0019.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d660af2c05ab_batch_0019.jsonl",
+      "sha256": "d660af2c05abf38f3a544ab493284846c7f1289dd90250e604580ddd5fdb1fa9"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0020.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/79f2feb04c0b_batch_0020.jsonl",
+      "sha256": "79f2feb04c0b0bc0bb8cc5099792f021fb6d57780fcb045448e062725db40ae2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0021.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/dc5a3010f77a_batch_0021.jsonl",
+      "sha256": "dc5a3010f77a27d1ee73b2f6260af96914edc95dfc6860e89936c544846abe75"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0022.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/70861ba4e815_batch_0022.jsonl",
+      "sha256": "70861ba4e815374af7d52971f9c0910c86343b3191735f452fd811126e7f8c10"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0023.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/70d37ccab192_batch_0023.jsonl",
+      "sha256": "70d37ccab192670ea165bdba9e1eba1be267060f6109470f276711e4c825d9a5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0024.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/11df851a2f4c_batch_0024.jsonl",
+      "sha256": "11df851a2f4ca2392ef427df36b6eb63e8fc15987f572ff3750875b765c8adc1"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0025.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/51df5a986ffa_batch_0025.jsonl",
+      "sha256": "51df5a986ffa4349e5ce08db7ba97916139f3bab5d2a3ca2b2a911a6249aca7c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0026.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5ff30e969db2_batch_0026.jsonl",
+      "sha256": "5ff30e969db2b2e8218b4bc3b8b7955fa8be79b28d66983dfffaf9cd7edae19d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0027.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5c0427f12f95_batch_0027.jsonl",
+      "sha256": "5c0427f12f956daf33f9831b0dd677d332847406832df29ec3ec9f2a5792e0e3"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0028.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/96d925dce8d0_batch_0028.jsonl",
+      "sha256": "96d925dce8d0d461be029e30eb6e178f6d61d4048965eb888aa10491b782d3e9"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0029.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d97fc1934e2a_batch_0029.jsonl",
+      "sha256": "d97fc1934e2a84d25930a87ebea79d0f83cd44955d7f12347452af5e8bcede53"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0030.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/070fefb52725_batch_0030.jsonl",
+      "sha256": "070fefb5272526cbd7301a374663ad4dfb539d3c8803b8dccfa6f51cf03c4030"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0031.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/04ce50010800_batch_0031.jsonl",
+      "sha256": "04ce500108003bfaae1fe1b5548a4a48c255c98c2449315e47d6e19cd3c5dc34"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0032.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5d6af1043e36_batch_0032.jsonl",
+      "sha256": "5d6af1043e36a433b07acf478488a71ab22d8b40f05f93e70649e07c15c66adb"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0033.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/86ddce725c03_batch_0033.jsonl",
+      "sha256": "86ddce725c0318265052799c864d2fac4ae7a01b8407231e0d1e956af5c68505"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0034.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/dde21b95f0df_batch_0034.jsonl",
+      "sha256": "dde21b95f0df1d2335d1d465186229f107f03a250528fc6a2baeae4bfe5384b0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0035.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e4ae048edbff_batch_0035.jsonl",
+      "sha256": "e4ae048edbff808b585ecf7c67f075ec1eeba19444d86608cf03c470781b9e5f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0036.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e13346d0fdbc_batch_0036.jsonl",
+      "sha256": "e13346d0fdbc860e2927992443015d973ad1013e63ba59546fe7e8423f20ae26"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0037.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/9b4ad65d23b8_batch_0037.jsonl",
+      "sha256": "9b4ad65d23b86e36aa7b0f2f91aaa64b4b7602f71962ed3ba0c243cad442241d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0038.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7990b36b8f6f_batch_0038.jsonl",
+      "sha256": "7990b36b8f6fe840792e902a6ad3b31e52d23cda18ac950b5088845b040041a6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0039.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5ca807ffa2e3_batch_0039.jsonl",
+      "sha256": "5ca807ffa2e3a33fd024321701884293579919fe1afb9ef77e5c16eb273d8d37"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0040.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/2e322556d419_batch_0040.jsonl",
+      "sha256": "2e322556d419b464308096ca95e1260f1ce2b7aa558338d5ca8a40a5aeaf4c26"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0041.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/dba531ed68a1_batch_0041.jsonl",
+      "sha256": "dba531ed68a1915b92cfc9c120a55c6972c425ee4edd54ee7a51b66540fdc7d4"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0042.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/8e52e8c86d0d_batch_0042.jsonl",
+      "sha256": "8e52e8c86d0d40f2743d16af57e73585f0ebb9d5f3dc9de086beab49e7bdb9f2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0043.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7a25be7508ce_batch_0043.jsonl",
+      "sha256": "7a25be7508ceccb0441abcdb78118738a6ee8ce49e8c8e74fc96a9d24b31a81b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0044.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/01ed89947d45_batch_0044.jsonl",
+      "sha256": "01ed89947d45ea82ea068c38b7ef71e91a6bbcebba78d94525e2d915d172dc43"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0045.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/091cadd94d80_batch_0045.jsonl",
+      "sha256": "091cadd94d804d80bcdc4579c1e6bf78eedda4c960a47ea81699eeced3bdd8e0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0046.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/39b60d125f65_batch_0046.jsonl",
+      "sha256": "39b60d125f652449f4947137a174c9704b454b39fcf0f3c320ffff9d2c72306d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0047.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f588619a6f96_batch_0047.jsonl",
+      "sha256": "f588619a6f969c21f793bf3a95c71cf6ec2e1175ca3b46459b89e018981b882e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0048.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b39eb211c856_batch_0048.jsonl",
+      "sha256": "b39eb211c8569105ce29276b496261a88480759d8c2376f5ec0b660099887a45"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0049.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d729c4504016_batch_0049.jsonl",
+      "sha256": "d729c4504016ff39030efde913dc0bb5f4ae3c2cdaed07e213e65f08577c3e62"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0050.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/0edea62980e3_batch_0050.jsonl",
+      "sha256": "0edea62980e3238c7a261bfd45d00e77ba645ca7751a3bb99beff2d0bc3f2042"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0051.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f035915f6e51_batch_0051.jsonl",
+      "sha256": "f035915f6e510231132018c4ab9c2048f9f8fd78ff8bddc532a72aa7d968b6f1"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0052.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d368401f6ea9_batch_0052.jsonl",
+      "sha256": "d368401f6ea912cd4eab5a96d6b5eef7f04b0dec32846c3f6973125010ea1a28"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0053.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ec15ec61fcd0_batch_0053.jsonl",
+      "sha256": "ec15ec61fcd07496b2114262d45ed1cee49343c1d9a2593d0dc71ade0b554a08"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0054.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/9da8d9bbf70b_batch_0054.jsonl",
+      "sha256": "9da8d9bbf70b859639ac4fb3b3069184ce98633851c286ee797ddbe9b5d60c9d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0055.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e6d78ad5988e_batch_0055.jsonl",
+      "sha256": "e6d78ad5988e4c7be084a0f01792ec8889946cc49f208495a78299a46fcdcb7e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0056.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/31f9dfab9db1_batch_0056.jsonl",
+      "sha256": "31f9dfab9db1248b2f1d4a3b26ee03f0a565936f7c3a7cdfc410a4230781f30d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0057.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f31294b4824c_batch_0057.jsonl",
+      "sha256": "f31294b4824cf0401c5a6c096c81fb72f5716fda0595bf1a1bd397b3d608671f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0058.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4083f6d17738_batch_0058.jsonl",
+      "sha256": "4083f6d1773829fd09de2ebfbe5167054c56e7b3eeb5d7d763a3dd362ef44b23"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0059.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c7565e41be1d_batch_0059.jsonl",
+      "sha256": "c7565e41be1d578c41da42d970519a0bbff6d02c9c1ecd72a86e3dc46133e354"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0060.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e83169cabdaa_batch_0060.jsonl",
+      "sha256": "e83169cabdaaaf7c6e9e8ee26b392ea8c2fe6acb40fbe8c962392b733c4c1d08"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0061.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/fa1a0555bb6f_batch_0061.jsonl",
+      "sha256": "fa1a0555bb6f9ed935fadc1ecfa8dd0c9c3b50617ee157082e10c2031aff74bd"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0062.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ec9414f048a4_batch_0062.jsonl",
+      "sha256": "ec9414f048a434b271196352bd50ca47c234174f7fe52ff4d49c54311c57412f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0063.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/98aec8705eb1_batch_0063.jsonl",
+      "sha256": "98aec8705eb1115287b7287ff3747ec12423b4c14039df3dad75c2e74d5b5dd5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0064.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/da101a178eb6_batch_0064.jsonl",
+      "sha256": "da101a178eb6f00075ac7e213a3d5506a9f503ab7970ed25f53b37b0c1a6aaf8"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0065.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7984b55db795_batch_0065.jsonl",
+      "sha256": "7984b55db7959642cbb3cd6a9ccdfd5bc6c97e35dc6f9a6bd6b30062f51ce801"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0066.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7cec915899de_batch_0066.jsonl",
+      "sha256": "7cec915899de89020eda9d2438148a5131ee59a9adff9813de348c157ae927c7"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0067.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/162d4de52139_batch_0067.jsonl",
+      "sha256": "162d4de5213925a2728cfeced7f55897043722f4ca598363ee09ee39923444e0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0068.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7f8b8e235c38_batch_0068.jsonl",
+      "sha256": "7f8b8e235c384de0fab4308b2c4f71dfb7b771e82d9be4e57d3b5bd1c1f7f005"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0069.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/51c103e38599_batch_0069.jsonl",
+      "sha256": "51c103e385999d58467b5371ad0b6ac6f866de8945d490ed3ffa992dda5f2fe3"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0070.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ccdc36df0986_batch_0070.jsonl",
+      "sha256": "ccdc36df0986e1d481a2c4faa90fc81bf4afd042d76d5646631002936f620ab6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0071.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5095c11dffd6_batch_0071.jsonl",
+      "sha256": "5095c11dffd68f95add8db73a6efe2d48f43ff7e1e5700d28799feec1bfda39d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0072.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/bfe14d9d6734_batch_0072.jsonl",
+      "sha256": "bfe14d9d673498828a044eaade7558d4764a5a0b2124b427151b86e1eb7102d2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0073.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/86e2c29fbac9_batch_0073.jsonl",
+      "sha256": "86e2c29fbac95f75f90f0e265b5c6b45996ec7d8cb7b9e6a5eb38ebf842fadc5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0074.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/8c1b8dca80c6_batch_0074.jsonl",
+      "sha256": "8c1b8dca80c6c8c37b366a241541ff295c8a6403baf1826a856ed24db1eb0753"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0075.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/2661fdcd5874_batch_0075.jsonl",
+      "sha256": "2661fdcd587418b8f6769bd100fce23e132e018715b01ac76ea042510116b8b5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0076.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c988991aea04_batch_0076.jsonl",
+      "sha256": "c988991aea04390d63d8db34f280759cc6ef8007baf2779ce22db592b0e02b25"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0077.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4bf341e80d37_batch_0077.jsonl",
+      "sha256": "4bf341e80d37f6755c191e52b1ee0c314264f1ab1348d78e45eba3b5dc887c11"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0078.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/a21ede8f3550_batch_0078.jsonl",
+      "sha256": "a21ede8f3550d8be508ebfdfc58fdb6aaa731e2929f699b123047d8473203b6b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0079.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/3bbaa4f67821_batch_0079.jsonl",
+      "sha256": "3bbaa4f67821fa3950ef89651394bd0c25bb34ff8912ae637f1c54788e963b67"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0080.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/912dbbaf85f9_batch_0080.jsonl",
+      "sha256": "912dbbaf85f96f0b0e69fbbe7514e05ce09522a1251c6e065c3c222e96017277"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0081.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/81e4affd146d_batch_0081.jsonl",
+      "sha256": "81e4affd146dddcf118796cfee007994b805223c9cbb6b7ff01b19e0044e398c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0082.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b8c7bef9fe9d_batch_0082.jsonl",
+      "sha256": "b8c7bef9fe9d51dc8acff89a9277805352fa16f02b049e902b46cee9b0e10b77"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0083.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f59dcfa3bbce_batch_0083.jsonl",
+      "sha256": "f59dcfa3bbced12dab9c512da09a8ef1abf8515ec442d902c0f42fd5809e26ca"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0084.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/0c6fa2110e57_batch_0084.jsonl",
+      "sha256": "0c6fa2110e572b2a89bf46de10461b371fe99b4bbb74d875a2ec9ea9a1e699ef"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0085.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/eb0bb007989a_batch_0085.jsonl",
+      "sha256": "eb0bb007989ab5c61b637f62866c38579c57cd9a30e5477dae7e00ceef9f1b23"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0086.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/3251dc1b6836_batch_0086.jsonl",
+      "sha256": "3251dc1b6836350d368e62d1775a88ba0e0ee843182fa99f99c932b53d385d41"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0087.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/a38bb1695663_batch_0087.jsonl",
+      "sha256": "a38bb1695663c5e582130e0984dc5d88448e5ce4ea6085cfdb2ac291882c5bb0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0088.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e91898a5ae09_batch_0088.jsonl",
+      "sha256": "e91898a5ae09395d5989d95bb47a84d2957319caf0419af35e536f2cfcdb1aa5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0089.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/43a1f0b6eaa5_batch_0089.jsonl",
+      "sha256": "43a1f0b6eaa5c652670be8b09513008e1889d711761c6dd0b72729cbe391f7fa"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0090.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/dcbbefe5b18a_batch_0090.jsonl",
+      "sha256": "dcbbefe5b18af4ddd0d94118433ed72d91dd043ac65214ec97ff6c9031a9da5b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0091.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/86cc1f883814_batch_0091.jsonl",
+      "sha256": "86cc1f88381479601e0c34e0dbfb88169ddc75e8d0accd47a6fd813f850083fa"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0092.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b9a301662255_batch_0092.jsonl",
+      "sha256": "b9a3016622558d19cdcef0f42c823052ffd7c29b85e9fd2d26d45043d7d1339b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0093.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/2f24acdc7a1e_batch_0093.jsonl",
+      "sha256": "2f24acdc7a1e763d7658e29685dc12b14796db5bf92cf882bea52cdb09eaf3bd"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0094.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b01278a174a3_batch_0094.jsonl",
+      "sha256": "b01278a174a3ef7878cc7e3e937486be0df2b9dc89bd44eb4b924cd28c1e15c3"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0095.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1baaae096191_batch_0095.jsonl",
+      "sha256": "1baaae096191768ec039d6eb5f96075b509c1be5e430bf03461caa750ce2861b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0096.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/612cc3ba16f0_batch_0096.jsonl",
+      "sha256": "612cc3ba16f060a821ad2fea752f77b6273a29b6224a1c02bad426d5ddb68c4e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0097.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/663967d96765_batch_0097.jsonl",
+      "sha256": "663967d9676567351702d5ac53af4d8b3ac7083fbbd0bb3aa5d4487e8534fbf9"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0098.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/42b656dadbc9_batch_0098.jsonl",
+      "sha256": "42b656dadbc9e41e4e3fa2a56b991b46b6536b5cc3b5b4b223022bb98a870ea5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0099.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/20d22890886c_batch_0099.jsonl",
+      "sha256": "20d22890886c84dc2928aa4459804cc8c676d0d4853db851a3a6a63c11df6c72"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0100.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/82669293ca2d_batch_0100.jsonl",
+      "sha256": "82669293ca2d63ce04ac595cc257062553b6add9a29e21a1340f9c240d9583fa"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0101.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4820d21f7555_batch_0101.jsonl",
+      "sha256": "4820d21f755527c31f48c35bc08ee5890aa2ea87d21492d3b79b455ca3c406f5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0102.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f66d7ceefc4f_batch_0102.jsonl",
+      "sha256": "f66d7ceefc4fa4b059544b83eedb5ca597e8aa148664758a3e5565631ec4164a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0103.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/6295e6795f87_batch_0103.jsonl",
+      "sha256": "6295e6795f87b8aaeec52758e53dc3b53b2651991d4d9acabed46bfa31e5042b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0104.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/32c91b18ef13_batch_0104.jsonl",
+      "sha256": "32c91b18ef133812a6157f16a9ff4871be6a762c46f91faa761589144a7631f0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0105.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/3ed3b90c0072_batch_0105.jsonl",
+      "sha256": "3ed3b90c00723923f104027a01c2afa1bfafc86cfbd801165549b14649404c69"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0106.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5b8cc61bb360_batch_0106.jsonl",
+      "sha256": "5b8cc61bb3607c60cef050e74569997c748771bec63b033778548fa57f9606bc"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0107.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/6691683e6766_batch_0107.jsonl",
+      "sha256": "6691683e6766d8021c20724d28f96598c21aa5874e8c0653566dfeb4ec6f1b15"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0108.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/fb3737ea6a24_batch_0108.jsonl",
+      "sha256": "fb3737ea6a24de5e3a930b4609ffae0f61c314bb2757565930f8855578b11233"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0109.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/cec01e0bcdd3_batch_0109.jsonl",
+      "sha256": "cec01e0bcdd384c93d50e220bc0de9097492407a12ffcc5cc6f513b9fe9018de"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0110.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ab0997c575fc_batch_0110.jsonl",
+      "sha256": "ab0997c575fc2fadcfde6c43490a767e6120b56229f62ec7ff075f4ee99ffdea"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0111.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4c142f877218_batch_0111.jsonl",
+      "sha256": "4c142f877218103d0c78a402b46cc3dba4bfb46944341ad7db7d79c80cff6233"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0112.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/96fe5e01ac19_batch_0112.jsonl",
+      "sha256": "96fe5e01ac19a24f3b905b398f0d0a2f2342b6bbc8a9264f560c2c8f454efe4c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0113.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c209d39aa064_batch_0113.jsonl",
+      "sha256": "c209d39aa064aa2fbdfb07ee811dda2b381cc52e82f30f48d5d15aa11285ced2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0114.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4a131f64d5d6_batch_0114.jsonl",
+      "sha256": "4a131f64d5d69f826c97a55eaf5743e83aa482dfb69386f1668500ab34a6a881"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0115.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/326192e1106a_batch_0115.jsonl",
+      "sha256": "326192e1106adf6ea956546d760316436493d7b9ff87b2eb0b7adc604f6ac269"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0116.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b1c12ef9d7ec_batch_0116.jsonl",
+      "sha256": "b1c12ef9d7ecd06466d2e8ef318ca83f1893c0b2d47f02cc75cee46439d43212"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0117.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/829f16614bc9_batch_0117.jsonl",
+      "sha256": "829f16614bc91ceed8835c540635d8bc8258cbbc8d4b928d69a404529daf654c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0118.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/8fb866b35c86_batch_0118.jsonl",
+      "sha256": "8fb866b35c867e473695eee586748cd329e1c650f813ba1951608f13388da613"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0119.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e3e1512d9eac_batch_0119.jsonl",
+      "sha256": "e3e1512d9eaca6a9ab95b094bcb8e0a5c848920f7cc1dfcf3955ca0db9253e3f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0120.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1b2d9040d288_batch_0120.jsonl",
+      "sha256": "1b2d9040d288a7cf61484f98ad17c98a1df9be0f9ad87645be2e2466963c9807"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0121.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/da5ad96008e6_batch_0121.jsonl",
+      "sha256": "da5ad96008e68f5ad330749daff38ee3bf077a608be2147a7c299513ec09c05d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0122.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/a7e6510fa01d_batch_0122.jsonl",
+      "sha256": "a7e6510fa01dfc0c473c0c14c75856fd5ce37f321277f168bbaeaa947b3b75d6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0123.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/3e2badacf494_batch_0123.jsonl",
+      "sha256": "3e2badacf494baf0ff056ff38048a5e39ca84fa4f8a587cde84f9241fe0cfac5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0124.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/168752a152b0_batch_0124.jsonl",
+      "sha256": "168752a152b048d6e0271e73f9cdf85fffa58e37f3eb9af1ec2c93e969b20b31"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0125.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/76ad0d2a537f_batch_0125.jsonl",
+      "sha256": "76ad0d2a537f0ad478d7edcd23f99b4ffbbdf008368588c05cffe7958c5a8fb6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0126.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7c5b51e8d699_batch_0126.jsonl",
+      "sha256": "7c5b51e8d69931fdd19e5049bd651e00ce902d331d97c42ae8262ee74f27b38a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0127.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/9a213080c301_batch_0127.jsonl",
+      "sha256": "9a213080c301cff4aea0a45c7d1571e93a679f7b4ae1a96131ca9e36b4f936db"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0128.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/8c6b0a4d67e1_batch_0128.jsonl",
+      "sha256": "8c6b0a4d67e1dde7c2f3f335aa9d90409cc89b9ad609f43f0b553b5c408bfc2b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0129.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/88162e33846e_batch_0129.jsonl",
+      "sha256": "88162e33846ef89f2efedfc18c1a651921e1ed9202aa6754e2fa7b7cb4949fbf"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0130.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/eb52bc919dc2_batch_0130.jsonl",
+      "sha256": "eb52bc919dc254b5591159a3c246246748273bbf4fbd4715c244c767f15743b8"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0131.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/51b42b6d3697_batch_0131.jsonl",
+      "sha256": "51b42b6d36970757489b1c6874556db87c08fb54371291e152a038e249dbec98"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0132.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/78d75bc1af77_batch_0132.jsonl",
+      "sha256": "78d75bc1af77861d1b961e2743fb5473f2724351b302acc0428fdc70f20aa3d4"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0133.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/734de5fcaee6_batch_0133.jsonl",
+      "sha256": "734de5fcaee6170bc897bf72708f658262bccdab6b6ab698aa70ffd1b0ad142c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0134.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/53618932b931_batch_0134.jsonl",
+      "sha256": "53618932b931eebad249d73a187cb44a562ea7d84e518e512ec5f4700c2f31ed"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0135.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e62d18566637_batch_0135.jsonl",
+      "sha256": "e62d18566637126584537c10e4687ddc54c01659cad32c9590d4743a24dbdcae"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0136.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c80368c3a4c5_batch_0136.jsonl",
+      "sha256": "c80368c3a4c5d7fff2de009fc0db5fecd5cb5bb76647202298263ffe3ae92d4f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0137.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c56f723bccda_batch_0137.jsonl",
+      "sha256": "c56f723bccda1a44d182ece44a1c2351e5bc32598e033f7633177e213231b150"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0138.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/043592d2e59f_batch_0138.jsonl",
+      "sha256": "043592d2e59fea1e30489d8b2771d3b6a870bb83db69f6798e0dc4f21af64637"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0139.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/efdc292b0034_batch_0139.jsonl",
+      "sha256": "efdc292b003448264fd39e0dc4e429807ec44e3130bd0db7618eb4be9c0c8078"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0140.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ec6d7d9aa5c4_batch_0140.jsonl",
+      "sha256": "ec6d7d9aa5c44d39eef3bbaf49666b79d709c7d7e31f53f8685ef6f5d5b2d0b5"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0141.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d95de0d74b46_batch_0141.jsonl",
+      "sha256": "d95de0d74b46866eb920572fbbf6c9fe652eeec0a3d5e85306ee95218732cfde"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0142.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/70958b7e9940_batch_0142.jsonl",
+      "sha256": "70958b7e9940bffadaab7773c6a65985df2d20bf43802250c3de24f8a923feff"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0143.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/89b48bfbf1ed_batch_0143.jsonl",
+      "sha256": "89b48bfbf1ed0c4c6c680f7ba9ed889b5cd2b339dcc9dd125e6797c322bf192b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0144.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7b0657789e26_batch_0144.jsonl",
+      "sha256": "7b0657789e26844312771ad4e1395f539b7e3ec5740f91fc17ff1158c0208fd1"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0145.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/942ec8e340a2_batch_0145.jsonl",
+      "sha256": "942ec8e340a2473d05fc65dd3b198bfeadfafea9fa50be5e4a8ce6d41762434d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0146.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d0b155df2a2f_batch_0146.jsonl",
+      "sha256": "d0b155df2a2f723961be9129042db023d304c9c6b682b5b4749f3e89003d61b4"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0147.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/263730e3a7d3_batch_0147.jsonl",
+      "sha256": "263730e3a7d390e9d4e0931b12f637864b5154e53c7782bae31fbd69ea9a523b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0148.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/89eb6b76edf6_batch_0148.jsonl",
+      "sha256": "89eb6b76edf62f3ef863fd68fa689b4b9061cb587229e5ab9a3e2147427d87b2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0149.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/decf49c815cf_batch_0149.jsonl",
+      "sha256": "decf49c815cfb720befd40b05e7aa98dbea6be853f597f743de05e53e2c6c132"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0150.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/59f063143878_batch_0150.jsonl",
+      "sha256": "59f0631438786ab08847c8ba58a16f4e307f9399e0990e8f8ad729994b2fa0a3"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0151.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c6a927cdc6e2_batch_0151.jsonl",
+      "sha256": "c6a927cdc6e231007fe93152f89fefff288b4fd617a38c257eb17585c20260b4"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0152.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7da121eb439c_batch_0152.jsonl",
+      "sha256": "7da121eb439c543ddd9b378c8571fed97e4cd6540e21db937d9c15891e877ec2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0153.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/78faf111670c_batch_0153.jsonl",
+      "sha256": "78faf111670cce0d666892f1d05c00df9dc48cf2e812a71405aab8e023f491c2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0154.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/43cd0a307ed1_batch_0154.jsonl",
+      "sha256": "43cd0a307ed1ab442e077575b4695ce5cf45a1be0e55eba06009199a419bf366"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0155.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/959425363c51_batch_0155.jsonl",
+      "sha256": "959425363c51670a896384155127f7ade506cfca7f8c8d5f585b2df0cd00b41d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0156.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/80edcb031691_batch_0156.jsonl",
+      "sha256": "80edcb0316914071f1481bad1a9804ff06538eddfab09c6f9b10d4740722bf7f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0157.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c79637e787bc_batch_0157.jsonl",
+      "sha256": "c79637e787bc81a095d70344f68947f3c297587a7061da0b784e6a27d3ab45e0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0158.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ed6a2ad4f716_batch_0158.jsonl",
+      "sha256": "ed6a2ad4f716c5e48d514f4538572d4f1675716c70bac443574b47267451e0f0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0159.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/88581c4ecb3b_batch_0159.jsonl",
+      "sha256": "88581c4ecb3ba4d66e9de959eb4f2d1360ce5d6aca9bde75a779cdb1bfa05667"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0160.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/af3611fc7792_batch_0160.jsonl",
+      "sha256": "af3611fc7792af6716f494101a2f5f3b8e3ae2a211c40feff98ad4f16dd9b140"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0161.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/441491138210_batch_0161.jsonl",
+      "sha256": "4414911382104fa80b3aa735eeba0c269087df927d0fa64c78d47be79815e583"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0162.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c16ef070a207_batch_0162.jsonl",
+      "sha256": "c16ef070a207eb7adda054dc517f4b569c51e65b8fc1a745e96a3c3b5136cfee"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0163.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1ed3c5d991b7_batch_0163.jsonl",
+      "sha256": "1ed3c5d991b79a41acc29d9f655138b30aa04d5428e839670bb7fdc536ccddd6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0164.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7d8d74cb3dd2_batch_0164.jsonl",
+      "sha256": "7d8d74cb3dd2dd1693e31d53d5e95a0766518aff5223db7f015e18cc9f88545b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0165.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ed8e5c9b6bf6_batch_0165.jsonl",
+      "sha256": "ed8e5c9b6bf66422f0a3c6954b4de08d805fff8f5dc0bb94490fdba5015cc40a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0166.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/55db4f84aa80_batch_0166.jsonl",
+      "sha256": "55db4f84aa80b2c08d8e3620627daf5fd12c68c9d966d07aa447b7c16778ac96"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0167.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d6573ddd5027_batch_0167.jsonl",
+      "sha256": "d6573ddd5027b260ba11ea5d73736fb68740a43f3f54dab9de5c236885f80448"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0168.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/fbe4a46f42f2_batch_0168.jsonl",
+      "sha256": "fbe4a46f42f2a630ceb5f657d628c9e29c3f4712ec4cbe4a6e12b441807e2afa"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0169.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1a3c4c7c87e7_batch_0169.jsonl",
+      "sha256": "1a3c4c7c87e77a7cd1592e70ddd4b857c5f3b1d78264d7df9c1eb94d0ad7174a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0170.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/da5607a009d7_batch_0170.jsonl",
+      "sha256": "da5607a009d7e4cf6746a870305ef2fcc5608a874fd19e3919350889427ba7cb"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0171.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b5f98a680324_batch_0171.jsonl",
+      "sha256": "b5f98a680324652cfb85f32c9c9d5931e8af474fa9b984ea4c14049ad0ca896f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0172.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/154e0724f838_batch_0172.jsonl",
+      "sha256": "154e0724f83889c2e32c3ebd7d0dece312d7310bf763f7210cf17cc563a133ba"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0173.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e4fb22e0cae1_batch_0173.jsonl",
+      "sha256": "e4fb22e0cae1c599b58f934fcf45f1fcd79fd46c5011b7a972a5b0d0cdcd506c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0174.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f2af92a55ed7_batch_0174.jsonl",
+      "sha256": "f2af92a55ed79a842774834cb1e901be6b7caf4d1ae8e32f684d1c0d8322f365"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0175.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1c1c8838e607_batch_0175.jsonl",
+      "sha256": "1c1c8838e60731fee57bae748cd957609eb13829093c24b358550cd8b30e0e4b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0176.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/760c3a894a36_batch_0176.jsonl",
+      "sha256": "760c3a894a36a85f177bf704e8ed9bc2728530be8a42f826cc0b53a24f763b50"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0177.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f3618a0feaf9_batch_0177.jsonl",
+      "sha256": "f3618a0feaf9abe51a7874e343bd66acd2100b0ac8709bcb2b0dab8ba861b8f4"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0178.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/77e43d87a0e8_batch_0178.jsonl",
+      "sha256": "77e43d87a0e87e33e85368185374a8779c73ab0529d3c09945a31ca19840f3ab"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0179.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d847f1c0a017_batch_0179.jsonl",
+      "sha256": "d847f1c0a017a87412800684a667e51e1d397152665754dc4f56fde4fac7758b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0180.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f403633183c2_batch_0180.jsonl",
+      "sha256": "f403633183c270472a96ae461f608a6b65d5bca0939ae02f7372fb6de3a1fcaf"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0181.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/0c4b07da93f3_batch_0181.jsonl",
+      "sha256": "0c4b07da93f311f6cc4a1cf4034c5d2ecbdd01c1cd189626a27d1cdbab593a0d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0182.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/96edc2681988_batch_0182.jsonl",
+      "sha256": "96edc2681988d55db83b1635412e6744b4a5b8278e0d3913f15bacc0ab5c70e1"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0183.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/cd720c501b81_batch_0183.jsonl",
+      "sha256": "cd720c501b8165980e5da9d517e4d9231f282154cdb07a3c4b65b015d342fe9b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0184.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/89d359802e31_batch_0184.jsonl",
+      "sha256": "89d359802e31ffd7bac49ab004d6361c022af32b381a33daea1dae8412b794bc"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0185.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/8c2b68b42e89_batch_0185.jsonl",
+      "sha256": "8c2b68b42e89a7bc6d59a677ce043817a96aab50c5057e8b854f38140c338850"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0186.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e84b41e3e2f9_batch_0186.jsonl",
+      "sha256": "e84b41e3e2f951eac3a43f474cf725c2683436f4c07a3558a2003cca8b81a759"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0187.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d1f969249719_batch_0187.jsonl",
+      "sha256": "d1f9692497196ae3c96768cd9d2004dd607f7b6c1bcb3a19d3370d0e36cc979b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0188.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4f29ef01a231_batch_0188.jsonl",
+      "sha256": "4f29ef01a2317b48e78b6a0d1c799444b401922b5bcd39841456b0bf9a26745b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0189.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/109b37740a61_batch_0189.jsonl",
+      "sha256": "109b37740a61a96ad12d67dec5bf6001317467223498e3343685753a879fff46"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0190.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/96b36cc4a69a_batch_0190.jsonl",
+      "sha256": "96b36cc4a69ad6c8121f2c4329b968cee49c7b388d7205d01a3dc650781d409d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0191.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/0b8092d84b17_batch_0191.jsonl",
+      "sha256": "0b8092d84b17dd718c6cda8a0a0b1b0a28b1704798d2a7fa10048fb043f0d850"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0192.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d379e9b6e3b7_batch_0192.jsonl",
+      "sha256": "d379e9b6e3b7611270c715212f6de3c59627214aecf2176090a054922ffffed0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0193.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7090e80f3775_batch_0193.jsonl",
+      "sha256": "7090e80f3775c7ebcceae2c0322bafcce4a0636f0afbed2ff49a3f6292e7c328"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0194.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/beac27119ac8_batch_0194.jsonl",
+      "sha256": "beac27119ac87a25019830667c35e0cdfd98542ffdbc065e89ae826f2a75507c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0195.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ac8bddc90abb_batch_0195.jsonl",
+      "sha256": "ac8bddc90abb4eb762d2feb5062db252144598b5154e42568f134de63a928096"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0196.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/8284236cd9bf_batch_0196.jsonl",
+      "sha256": "8284236cd9bf823bffb492f5f49df8207d4a76c09196321b3b1ce6c626062cbb"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0197.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/65ef905a0d62_batch_0197.jsonl",
+      "sha256": "65ef905a0d62c3dac4ec46d05ba61e13ddf3405bfb4d99bc8085c8b8a7f70f43"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0198.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/513bce38bcf5_batch_0198.jsonl",
+      "sha256": "513bce38bcf52e9fe17ef03250c36f28b92e1cb20b42869ed43e38948c5aa708"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0199.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/324475a31ab2_batch_0199.jsonl",
+      "sha256": "324475a31ab254113dfcb20c3f3a2f6cfde3e19f5391536e7ac8bd0dac793114"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0200.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/bf6abb9cd2b0_batch_0200.jsonl",
+      "sha256": "bf6abb9cd2b04041ee747d009f4a6b9f6fb557aace819c20e53af2e071254843"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0201.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/20a8f4becab7_batch_0201.jsonl",
+      "sha256": "20a8f4becab7d5deb5cede58ac4c3d614c06822ce395cb4a18bbc501d0a564ca"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0202.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/bf5c7a5b4d3c_batch_0202.jsonl",
+      "sha256": "bf5c7a5b4d3c95768f9ecf50608c7649a9c923ca24788d61615eb2417c62d130"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0203.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/3ffd4001718e_batch_0203.jsonl",
+      "sha256": "3ffd4001718e9967f47315ea54323e3b6b6eb80a1c556155837d7d6949209545"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0204.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/2d957bffd45f_batch_0204.jsonl",
+      "sha256": "2d957bffd45f853bb47f0ea61c6795f0689363466622b97c373cee999a5a332e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0205.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/62e065586c78_batch_0205.jsonl",
+      "sha256": "62e065586c78364ad92d9c72e3b6693ad88dec726f7a3bcce7f4ca4f61965d89"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0206.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ac068ba5de80_batch_0206.jsonl",
+      "sha256": "ac068ba5de80d7b9e27937ca7a6bad90ccb6469b91b27d65d24bf6f97edffb5d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0207.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1459ac14c234_batch_0207.jsonl",
+      "sha256": "1459ac14c23412852a5752af34d5e806670be5ec5f541afe09beb9801c222d18"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0208.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/21b62fbb71be_batch_0208.jsonl",
+      "sha256": "21b62fbb71be0b7ed80bab0c79bb42de49628859f714e225df9e2a96e4a43ec6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0209.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/0ae9fa8c1711_batch_0209.jsonl",
+      "sha256": "0ae9fa8c17119ba03ac9888ad66ff3a50ace9dc96232fa34e298bca86dd51b50"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0210.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d7f77bb26c3c_batch_0210.jsonl",
+      "sha256": "d7f77bb26c3cb0475c0583e3aaf0412aa33d7e8c9069fcec44a301c235730a36"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0211.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f315806c1ec0_batch_0211.jsonl",
+      "sha256": "f315806c1ec08ba3e36aa378de5b724d16d536c1060a3803fa00a89e06eccd5b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0212.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f89a17edd7c8_batch_0212.jsonl",
+      "sha256": "f89a17edd7c8e399f6f12fe4330f67063892260506c5ca9823e11a9a2d3c6b6c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0213.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b7887db7ac00_batch_0213.jsonl",
+      "sha256": "b7887db7ac00e2ee5a08c1f049f94cf54477997de198a3b905320854b45be8ca"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0214.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/872aec074d34_batch_0214.jsonl",
+      "sha256": "872aec074d34e8304298821bdff3a05e7d39cbfee6454e0e0dc17fda5c06ed5b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0215.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/a69b7a66f988_batch_0215.jsonl",
+      "sha256": "a69b7a66f98887c911e104dacc838aa8516353a32c01a13d655fa59a3b5ddd4e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0216.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4aa0f2b5b791_batch_0216.jsonl",
+      "sha256": "4aa0f2b5b791f3bee84997059d84f70e301d1fe6d3c02ffa7b624acc7acb79c2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0217.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/74f334c3f135_batch_0217.jsonl",
+      "sha256": "74f334c3f135681e38446eb1c82d18e1ebe27975def567b15003b37b62997831"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0218.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/acfc3a21c59f_batch_0218.jsonl",
+      "sha256": "acfc3a21c59f992cbfa4ad83def9834dd60a5b0624dd3fa38d03fa63892485d2"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0219.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d003bb1e1b52_batch_0219.jsonl",
+      "sha256": "d003bb1e1b52597d3027f146b837f6948de5b26ac99554e5db2db3bf6fb7595f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0220.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/18b18590a8e4_batch_0220.jsonl",
+      "sha256": "18b18590a8e41bb0ef45e6f18ebfb2d54f9eb64c0a4b36960277a11eab1f9c68"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0221.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4e7ad169cf7f_batch_0221.jsonl",
+      "sha256": "4e7ad169cf7fd648f630e94d4bf716e9845dbc8ed63e0dcedf61fa542da7e379"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0222.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/126d8984e820_batch_0222.jsonl",
+      "sha256": "126d8984e8207947d9af5ae6f4dfb29aafdcc92d0e233bc166fbd60b1b9d8cfe"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0223.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/2aae4734b72c_batch_0223.jsonl",
+      "sha256": "2aae4734b72c95637a2f5538f1bd02efab62280f103d594af1994d30d75623b8"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0224.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/74fec9ae7adc_batch_0224.jsonl",
+      "sha256": "74fec9ae7adc8dd3169f3db2f491e79badb4e775f62e87025254473bf037c4c3"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0225.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1c59f7d09de8_batch_0225.jsonl",
+      "sha256": "1c59f7d09de8666fc4ced5ac83fc118d7b76a58f8d58b5effbf66d97e2b0e772"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0226.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/3b3803729aff_batch_0226.jsonl",
+      "sha256": "3b3803729aff1b3ea68e77e5de0d7241bb8ecd763d35a9cdf506c6dd66788d1b"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0227.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1077a88baea4_batch_0227.jsonl",
+      "sha256": "1077a88baea47e8dfb0f97d27619022a23f97c81afa5bd3783d724449187323e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0228.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/926c1e05ea3e_batch_0228.jsonl",
+      "sha256": "926c1e05ea3e9f3242c52a94007a5987cd06d3c4a29c4ebf91884a50ba5f7b8e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0229.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/aba49aad889a_batch_0229.jsonl",
+      "sha256": "aba49aad889a199521527ff0d87f6e12f36b14b41304c88a3ba5b659865bf54f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0230.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1c4237e6db0c_batch_0230.jsonl",
+      "sha256": "1c4237e6db0c6d7398decf0bc645be49177b5e890ab03215daad7fe9e677f317"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0231.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/778cb00fc06a_batch_0231.jsonl",
+      "sha256": "778cb00fc06a6f6ab1bc9e355bc9327a0f87f3d92035f4a44a6f0673a822bd98"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0232.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e5f01816d7f4_batch_0232.jsonl",
+      "sha256": "e5f01816d7f4dc679bc6cdf65d26d014566e3b022b11b395717e355bd71031c0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0233.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/30afc448ca2f_batch_0233.jsonl",
+      "sha256": "30afc448ca2fe9766d16c3ede192e02bdb75395930c8e0b9a5c92df992d1004d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0234.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c29b8a9f3a53_batch_0234.jsonl",
+      "sha256": "c29b8a9f3a5394406894d7578e12de04bb1fe9acb18f8c874efbbd1a92cb5ecd"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0235.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e5921e525475_batch_0235.jsonl",
+      "sha256": "e5921e525475256970a60fc309704b90b4b6db305d11bf2ce45f04001ca10f46"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0236.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5c577397bd68_batch_0236.jsonl",
+      "sha256": "5c577397bd68620df1b61e617d83eca4fa5b518b19892a4c33aea38089942102"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0237.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ff7f19b6ae89_batch_0237.jsonl",
+      "sha256": "ff7f19b6ae894f1a1c958f66747eb6677ad3617d4b02c6295ef80b40cc7beae0"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0238.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f7f8ae41b59a_batch_0238.jsonl",
+      "sha256": "f7f8ae41b59a03dd77fc193ceffeda99395c198bd10f76f85137f69821136b47"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0239.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/49be0eee7aad_batch_0239.jsonl",
+      "sha256": "49be0eee7aade30441eaeda615fce044829f02e7de00b6bc3471166850a162d6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0240.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/30b22e8b2c07_batch_0240.jsonl",
+      "sha256": "30b22e8b2c07de2849577f7df169f822d69a9d79df8dd17c1f2f9007c1d7d21f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0241.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/06b3710269c1_batch_0241.jsonl",
+      "sha256": "06b3710269c1c0ae56629a4c7bfad014f5f8b7fa84329cfbb58f2fb160255f6c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0242.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/3870b3d53659_batch_0242.jsonl",
+      "sha256": "3870b3d53659a67879964dcb5715d0338be65307fb97b70b652291483ef83474"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0243.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/e8de93a33b2b_batch_0243.jsonl",
+      "sha256": "e8de93a33b2bd09d58e8e8fbc530cf26ce1cc2345188b473500bb9cb2bafba3a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0244.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/c0805e2fda3a_batch_0244.jsonl",
+      "sha256": "c0805e2fda3acf33ec91331bbb9b148bf9172c9eeb1693edc354137b51deb8e8"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0245.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f19f52539034_batch_0245.jsonl",
+      "sha256": "f19f5253903408a2dffc5d31f6a2d61b40daaaa6cbc576f16ac354765658dc53"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0246.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/4778caac4013_batch_0246.jsonl",
+      "sha256": "4778caac4013d3619e27cf7eacd43f236e18156faa37e5baa1307092c6ec44a6"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0247.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/5b0a571baed7_batch_0247.jsonl",
+      "sha256": "5b0a571baed7483d90a2941ecafda278044305f732766721feb5b7b6e4f5939a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0248.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b1512af64667_batch_0248.jsonl",
+      "sha256": "b1512af646671a31e8c1ca8e24107e1e653b1dbc4c3a9cc2215625e8d43a2334"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0249.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/7bae9590f6dc_batch_0249.jsonl",
+      "sha256": "7bae9590f6dcb9a3bc1b8f27b1294de8b9a377a1da9fbdc2c8e7e3afb221528e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0250.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/1ebec0b1c5b7_batch_0250.jsonl",
+      "sha256": "1ebec0b1c5b7f62ef4b8586f294da1486e46ad2309cde45ab05a0e7368e8719a"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0251.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/a826e4645f09_batch_0251.jsonl",
+      "sha256": "a826e4645f094f60c19406e1d38745d0b423a1d44b41b9099520b292a7671af8"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0252.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/ae1dea884063_batch_0252.jsonl",
+      "sha256": "ae1dea88406363301d5841a05f555b98eb5c3c1a5c7ece56e94c79884d5fa5eb"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0253.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/0303cfe3e043_batch_0253.jsonl",
+      "sha256": "0303cfe3e04331d0ac4ae31b5b655f48f552c1d6f771ef0dcf46c6be8a6ec54f"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0254.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/d50579774089_batch_0254.jsonl",
+      "sha256": "d5057977408973406095905f63fed0b49bc96aa9a7ddabb5e79e0a637dea829c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0255.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/b0551a04ecc4_batch_0255.jsonl",
+      "sha256": "b0551a04ecc4fa8d1621a603ba0edeaa1c8ebd1a049f13817ed67bb409c147cb"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0256.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/bb660cba0270_batch_0256.jsonl",
+      "sha256": "bb660cba0270bab2b9d18bd9ae0c882dc3fc234940297910631966a681c18e20"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0257.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/f99b39ddce94_batch_0257.jsonl",
+      "sha256": "f99b39ddce94738a8f6e5a072e77035770b28fa2067e868b4af04052b63ed989"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0258.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/fab9f153149b_batch_0258.jsonl",
+      "sha256": "fab9f153149b110d68c484b35922cef729720bc026a2e34f35910798dfb6ad0c"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0259.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/9336d8b829be_batch_0259.jsonl",
+      "sha256": "9336d8b829be84847801efebbc731468d87645fe6579f3a9b1ec6f96208bd66e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0260.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/a2779e0f0f2d_batch_0260.jsonl",
+      "sha256": "a2779e0f0f2db4690143ab274c3ea8c8fc2bf99686afe3508220f4b5f4430b9e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0261.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/0d51a6877061_batch_0261.jsonl",
+      "sha256": "0d51a68770610f49311f535cfac54b133e4170b476d31f89f70a6e130656049e"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0262.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/6b1238f37695_batch_0262.jsonl",
+      "sha256": "6b1238f37695b293b04eade6755f8c63b9f5dcb5246829656ae696849a6711e4"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0263.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/9bf3baabad6e_batch_0263.jsonl",
+      "sha256": "9bf3baabad6edca973bd961a1938bd40713c99d53121e2f656b55edc5fe573da"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0264.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/9441b768db85_batch_0264.jsonl",
+      "sha256": "9441b768db8550406f8778f88a84b149117b5dfa07a05b8cdda9a4f1cc68e85d"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0265.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/6b35fa3191aa_batch_0265.jsonl",
+      "sha256": "6b35fa3191aa13c75787e9d2280dfaee07ba67ab62dba7cb4c0df2919447a815"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0266.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/11748930fe69_batch_0266.jsonl",
+      "sha256": "11748930fe697b85de9a00b1bd4b5d709929aef93f5f30684f72526990f29c68"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0267.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/703dda5d8383_batch_0267.jsonl",
+      "sha256": "703dda5d83836f826b0e27ab48730e70191c6b956b6848f8ec727e4a5d24e615"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0268.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/096b472bc4f5_batch_0268.jsonl",
+      "sha256": "096b472bc4f5cc7a92689c9418d761f35b232735a89e6d3919b8543128fe5fca"
+    },
+    {
+      "source": "/Users/mariam/CascadeProjects/Value Leakage/returns/main/gpt6-trajectory/batch_0269.jsonl",
+      "saved": "/Users/mariam/CascadeProjects/Value Leakage/runs/main/judge_results_gpt6/returned_unchanged/trajectory/cc4e97a69f79_batch_0269.jsonl",
+      "sha256": "cc4e97a69f790232ee3bb1ac76102765a9ec1e47a217306d5ee5e4bbb9361585"
+    }
+  ]
+}

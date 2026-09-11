@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_9721653c9758c6d97686",
+      "sample_id": "main:maiden:unrestricted:below_good:0025",
+      "source_prompt_sha256": "2f5fc064a8014bc3200dfbb068725dab5b20659d372c5fc512badadb35201666"
+    },
+    {
+      "id": "j_f_0a0a7b31a133844ba02a",
+      "sample_id": "main:turns:unrestricted:below_good:0032",
+      "source_prompt_sha256": "a0cc8db921c715bce8d9b8797d1d8ecb6a74d20300bf44b6d393152a633444a5"
+    },
+    {
+      "id": "j_f_4127a908ce4e81e6518c",
+      "sample_id": "main:zills:bounded:baseline:0016",
+      "source_prompt_sha256": "df0c3dadf897f2191d336653428626ac2b7649930b8b33b20d4301da581bdc74"
+    },
+    {
+      "id": "j_f_4be56b91e018438c39dc",
+      "sample_id": "main:giraffes:bounded:baseline:0030",
+      "source_prompt_sha256": "ada76da49bb4441ed8ec4bd242508dc943f0adec2c6276282cd198850e295d5b"
+    },
+    {
+      "id": "j_f_21adeadc5f3ec197fec5",
+      "sample_id": "main:giraffes:bounded:baseline:0029",
+      "source_prompt_sha256": "ada76da49bb4441ed8ec4bd242508dc943f0adec2c6276282cd198850e295d5b"
+    },
+    {
+      "id": "j_f_9a45a43adeaa05daf4fe",
+      "sample_id": "main:bridge:unrestricted:below_good:0040",
+      "source_prompt_sha256": "6f61a0f28344e04eabbfe3b5ca1159ca05f51d8503f636d1dc81dbfa5d4536c9"
+    },
+    {
+      "id": "j_f_e1c9d1f099b7d138c305",
+      "sample_id": "main:crochet:unrestricted:below_good:0047",
+      "source_prompt_sha256": "1348eda8496022896a51de59e29f3c6d1ce1e639a0aab484f79f4225d818dbd2"
+    },
+    {
+      "id": "j_f_8418af098970dbee31d6",
+      "sample_id": "main:bridge:unrestricted:below_good:0039",
+      "source_prompt_sha256": "6f61a0f28344e04eabbfe3b5ca1159ca05f51d8503f636d1dc81dbfa5d4536c9"
+    },
+    {
+      "id": "j_f_cd1d358365c164e8b508",
+      "sample_id": "main:zills:bounded:baseline:0015",
+      "source_prompt_sha256": "df0c3dadf897f2191d336653428626ac2b7649930b8b33b20d4301da581bdc74"
+    },
+    {
+      "id": "j_f_76693b4a06797af63e65",
+      "sample_id": "main:turns:unrestricted:below_good:0029",
+      "source_prompt_sha256": "a0cc8db921c715bce8d9b8797d1d8ecb6a74d20300bf44b6d393152a633444a5"
+    }
+  ]
+}

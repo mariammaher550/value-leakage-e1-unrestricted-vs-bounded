@@ -1,0 +1,7 @@
+task,format,condition,expected,observed,cell_complete,valid_estimates,missing_estimates,api_failures,refusals,truncations,ties,bound_violations,bounded_compliant_estimates,reasoning_available,trajectories_judged,trajectories_usable,trajectory_coverage
+giraffes,unrestricted,baseline,10,10,True,10,0,0,0,0,0,0,0,10,10,10,1.0
+giraffes,unrestricted,above_good,10,10,True,9,1,0,0,0,0,0,0,10,10,10,1.0
+giraffes,unrestricted,below_good,10,10,True,10,0,0,0,0,0,0,0,10,10,10,1.0
+giraffes,bounded,baseline,10,10,True,10,0,0,0,0,0,0,10,10,10,10,1.0
+giraffes,bounded,above_good,10,10,True,10,0,0,0,0,0,0,10,10,10,10,1.0
+giraffes,bounded,below_good,10,10,True,10,0,0,0,0,0,0,10,10,10,10,1.0

@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_c047bad7905348dad409",
+      "sample_id": "main:maiden:unrestricted:baseline:0020",
+      "source_prompt_sha256": "2d2960ce4ddcec41684223e0891f06913ea7c376dfa4477fb35871b73aa6ce18"
+    },
+    {
+      "id": "j_f_e0badd0258a5c3c40723",
+      "sample_id": "main:turns:unrestricted:baseline:0022",
+      "source_prompt_sha256": "cbde84355c08d57a7504eb578fe023761cce40b558846fb50eda6180548f732c"
+    },
+    {
+      "id": "j_f_e8eb842d831a503d7060",
+      "sample_id": "main:maiden:unrestricted:baseline:0024",
+      "source_prompt_sha256": "2d2960ce4ddcec41684223e0891f06913ea7c376dfa4477fb35871b73aa6ce18"
+    },
+    {
+      "id": "j_f_f7e434e1b65cc0c1a823",
+      "sample_id": "main:turns:unrestricted:baseline:0025",
+      "source_prompt_sha256": "cbde84355c08d57a7504eb578fe023761cce40b558846fb50eda6180548f732c"
+    },
+    {
+      "id": "j_f_4d3fc8ea98ce8e635607",
+      "sample_id": "main:tbc:unrestricted:baseline:0044",
+      "source_prompt_sha256": "02ec264f68a22cad0da205427c8f4fcd1fdccc64b4383533d1f1214c41b9aa81"
+    },
+    {
+      "id": "j_f_4a1af5b4858c9cec9541",
+      "sample_id": "main:orangecars:unrestricted:baseline:0007",
+      "source_prompt_sha256": "5ef359f62b9b24d707a242c9a3ddac982bd6e99518ecbfe16e3175fdf41a922b"
+    },
+    {
+      "id": "j_f_cc8a0101cb529fda9b84",
+      "sample_id": "main:turns:unrestricted:baseline:0024",
+      "source_prompt_sha256": "cbde84355c08d57a7504eb578fe023761cce40b558846fb50eda6180548f732c"
+    },
+    {
+      "id": "j_f_12be4ac9d7ca95096cb2",
+      "sample_id": "main:tbc:unrestricted:baseline:0045",
+      "source_prompt_sha256": "02ec264f68a22cad0da205427c8f4fcd1fdccc64b4383533d1f1214c41b9aa81"
+    },
+    {
+      "id": "j_f_17a4f21833001f495a16",
+      "sample_id": "main:maiden:unrestricted:baseline:0025",
+      "source_prompt_sha256": "2d2960ce4ddcec41684223e0891f06913ea7c376dfa4477fb35871b73aa6ce18"
+    },
+    {
+      "id": "j_f_63aff4b7224e2b46accd",
+      "sample_id": "main:orangecars:unrestricted:baseline:0005",
+      "source_prompt_sha256": "5ef359f62b9b24d707a242c9a3ddac982bd6e99518ecbfe16e3175fdf41a922b"
+    }
+  ]
+}

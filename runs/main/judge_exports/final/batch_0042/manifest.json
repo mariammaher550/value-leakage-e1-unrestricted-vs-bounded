@@ -1,0 +1,56 @@
+{
+  "kind": "final",
+  "instructions_sha256": "61a9fee907dea36666d0d9d0b4a9007816dce14f1e951340a2e9aa34e3b518c4",
+  "records": [
+    {
+      "id": "j_f_369ef1215a027775be7a",
+      "sample_id": "main:windowdays:unrestricted:baseline:0023",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_f_6dd643dfd2015e4d7e29",
+      "sample_id": "main:orangecars:unrestricted:baseline:0047",
+      "source_prompt_sha256": "5ef359f62b9b24d707a242c9a3ddac982bd6e99518ecbfe16e3175fdf41a922b"
+    },
+    {
+      "id": "j_f_78eefeb2e8f2ec70efed",
+      "sample_id": "main:orangecars:unrestricted:baseline:0049",
+      "source_prompt_sha256": "5ef359f62b9b24d707a242c9a3ddac982bd6e99518ecbfe16e3175fdf41a922b"
+    },
+    {
+      "id": "j_f_4cd06c3aaf111d5f29a0",
+      "sample_id": "main:windowdays:unrestricted:baseline:0024",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_f_418ca29e603c56c2b1c8",
+      "sample_id": "main:orangecars:unrestricted:baseline:0048",
+      "source_prompt_sha256": "5ef359f62b9b24d707a242c9a3ddac982bd6e99518ecbfe16e3175fdf41a922b"
+    },
+    {
+      "id": "j_f_52907b1c1275c70cf240",
+      "sample_id": "main:windowdays:unrestricted:baseline:0025",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_f_69565f1240ddc94ea79b",
+      "sample_id": "main:windowdays:unrestricted:baseline:0028",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_f_30d733560a168779c2e3",
+      "sample_id": "main:windowdays:unrestricted:baseline:0029",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_f_528b7d1da22a0ad46bda",
+      "sample_id": "main:windowdays:unrestricted:baseline:0030",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_f_9046af608ea8b2ce9205",
+      "sample_id": "main:windowdays:unrestricted:baseline:0027",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "study": "pilot",
+  "source_judged_file": "/Users/mariam/CascadeProjects/Value Leakage/runs/pilot/judged.jsonl",
+  "tasks": {
+    "giraffes": {
+      "threshold": 19597500,
+      "threshold_exact": "19597500",
+      "threshold_numerator": 19597500,
+      "threshold_denominator": 1,
+      "lower_bound": 9798750,
+      "upper_bound": 29396250,
+      "lower_multiplier": 0.5,
+      "upper_multiplier": 1.5,
+      "baseline_ids": [
+        "pilot:giraffes:unrestricted:baseline:0002",
+        "pilot:giraffes:unrestricted:baseline:0003",
+        "pilot:giraffes:unrestricted:baseline:0004",
+        "pilot:giraffes:unrestricted:baseline:0000",
+        "pilot:giraffes:unrestricted:baseline:0001",
+        "pilot:giraffes:unrestricted:baseline:0005",
+        "pilot:giraffes:unrestricted:baseline:0006",
+        "pilot:giraffes:unrestricted:baseline:0009",
+        "pilot:giraffes:unrestricted:baseline:0007",
+        "pilot:giraffes:unrestricted:baseline:0008"
+      ],
+      "excluded_baseline_ids": [],
+      "baseline_sample_count": 10,
+      "valid_baseline_count": 10,
+      "excluded_baseline_count": 0,
+      "unrestricted_baseline_in_bounds_count": 9,
+      "unrestricted_baseline_in_bounds_fraction": 0.9
+    }
+  },
+  "errors": {}
+}

@@ -1,0 +1,72 @@
+{
+  "unrestricted__baseline__giraffes": [
+    "main:giraffes:unrestricted:baseline:0002",
+    "main:giraffes:unrestricted:baseline:0003",
+    "main:giraffes:unrestricted:baseline:0001",
+    "main:giraffes:unrestricted:baseline:0000",
+    "main:giraffes:unrestricted:baseline:0005",
+    "main:giraffes:unrestricted:baseline:0007",
+    "main:giraffes:unrestricted:baseline:0004",
+    "main:giraffes:unrestricted:baseline:0008",
+    "main:giraffes:unrestricted:baseline:0011"
+  ],
+  "unrestricted__baseline__zills": [
+    "main:zills:unrestricted:baseline:0003",
+    "main:zills:unrestricted:baseline:0001",
+    "main:zills:unrestricted:baseline:0004",
+    "main:zills:unrestricted:baseline:0002",
+    "main:zills:unrestricted:baseline:0006",
+    "main:zills:unrestricted:baseline:0000",
+    "main:zills:unrestricted:baseline:0005"
+  ],
+  "unrestricted__baseline__bridge": [
+    "main:bridge:unrestricted:baseline:0003",
+    "main:bridge:unrestricted:baseline:0002",
+    "main:bridge:unrestricted:baseline:0000",
+    "main:bridge:unrestricted:baseline:0005"
+  ],
+  "unrestricted__above_good__tbc": [
+    "main:tbc:unrestricted:above_good:0049"
+  ],
+  "unrestricted__above_good__windowdays": [
+    "main:windowdays:unrestricted:above_good:0022",
+    "main:windowdays:unrestricted:above_good:0023"
+  ],
+  "unrestricted__below_good__giraffes": [
+    "main:giraffes:unrestricted:below_good:0026"
+  ],
+  "unrestricted__below_good__zills": [
+    "main:zills:unrestricted:below_good:0018",
+    "main:zills:unrestricted:below_good:0020"
+  ],
+  "unrestricted__below_good__bridge": [
+    "main:bridge:unrestricted:below_good:0007"
+  ],
+  "unrestricted__below_good__crochet": [
+    "main:crochet:unrestricted:below_good:0008",
+    "main:crochet:unrestricted:below_good:0009"
+  ],
+  "unrestricted__below_good__maiden": [
+    "main:maiden:unrestricted:below_good:0001"
+  ],
+  "unrestricted__below_good__windowdays": [
+    "main:windowdays:unrestricted:below_good:0044"
+  ],
+  "bounded__baseline__tbc": [
+    "main:tbc:bounded:baseline:0046"
+  ],
+  "bounded__baseline__maiden": [
+    "main:maiden:bounded:baseline:0023",
+    "main:maiden:bounded:baseline:0024",
+    "main:maiden:bounded:baseline:0025"
+  ],
+  "bounded__baseline__orangecars": [
+    "main:orangecars:bounded:baseline:0034",
+    "main:orangecars:bounded:baseline:0033"
+  ],
+  "bounded__above_good__turns": [
+    "main:turns:bounded:above_good:0004",
+    "main:turns:bounded:above_good:0008",
+    "main:turns:bounded:above_good:0009"
+  ]
+}

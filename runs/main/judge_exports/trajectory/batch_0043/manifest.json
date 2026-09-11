@@ -1,0 +1,56 @@
+{
+  "kind": "trajectory",
+  "instructions_sha256": "cefa36e38e6c0b8a64608f521d51bc94b5332c536c0aee29162d177348df5502",
+  "records": [
+    {
+      "id": "j_t_965ee784195c7ac8d9d3",
+      "sample_id": "main:windowdays:unrestricted:baseline:0031",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_c0c71f85f3f87f272a62",
+      "sample_id": "main:windowdays:unrestricted:baseline:0026",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_0ea35317e05598c5939a",
+      "sample_id": "main:windowdays:unrestricted:baseline:0033",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_497f2b448b180318889f",
+      "sample_id": "main:windowdays:unrestricted:baseline:0032",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_778090998e6acadd1b97",
+      "sample_id": "main:windowdays:unrestricted:baseline:0034",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_7eb46b3971f4aade1432",
+      "sample_id": "main:windowdays:unrestricted:baseline:0035",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_15896d450e5743d56434",
+      "sample_id": "main:windowdays:unrestricted:baseline:0038",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_b637453c5e624c4604f4",
+      "sample_id": "main:windowdays:unrestricted:baseline:0036",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_2385dbbde405a1adb30e",
+      "sample_id": "main:windowdays:unrestricted:baseline:0039",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    },
+    {
+      "id": "j_t_202ae8a4438ab054a8f4",
+      "sample_id": "main:windowdays:unrestricted:baseline:0037",
+      "source_prompt_sha256": "33e26f7d01135456ea6303df89ce96c7a7fb1e757226728f51cdc952d25b2158"
+    }
+  ]
+}
