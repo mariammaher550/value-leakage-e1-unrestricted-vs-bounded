@@ -1,0 +1,5 @@
+metric,format,value,ci_low,ci_high,usable_tasks,planned_tasks
+overall_signed_bias,unrestricted,0.21433576976890045,0.15642247330374234,0.27248406567118577,9,9
+overall_signed_bias,bounded,0.25286092214663647,0.1943509070294784,0.30910530045351475,9,9
+mean_task_delta_bias_bounded_minus_unrestricted,comparison,0.038525152377736,-0.04241135354851159,0.11928052479857186,9,9
+mean_task_absolute_bias_change,comparison,0.038525152377736,-0.05105264871906215,0.10743273769318587,9,9
